@@ -40,7 +40,7 @@ Useage Tips:
 |vmess, trojan | https://sshkit.com/subconverter/ | output: Load Balance (Only Clash) | Produce plain connection, no proxy filtering |
 
 Personal Tips: 
-1. Use [v2rayse](https://v2rayse.com/node-convert) for making a template file filters including how many proxies are required in total by using same address multiple times.
+1. Use [v2rayse](https://v2rayse.com/node-convert) for making a template file filters including how many proxies are required in total by using same address multiple times. (vmess links don't work properly)
 2. Use [SSHkit](https://sshkit.com/subconverter/) for making plain YAML file and add all other proxies in that. simple direct connections with load balance.
 
 
