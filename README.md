@@ -8,7 +8,7 @@
 [Stream Test](https://www.highspeedinternet.com/tools/speed-test/streaming)
 
 ### One Click Subscription
-`OneClick: Copy the subscription link and add it as profile in Clash`
+`Mannually Build from Alvin9999 nodes`
 | Type     | Provider       | Status | Website | Subscription 1 | Subscription 2 | Note |
 | -------- | -------------- | ------ | ------- | -------------- | -------------- | ---- |
 | OneClick | Masood         | Good   | [Website](https://github.com/ammasood12/nodes/) | [Load Balance](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml) | [With Filters](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml) | Based on Alvin9999
