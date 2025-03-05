@@ -13,18 +13,25 @@
 | One Click | Ermaozi        | Good   | [Website](https://github.com/ermaozi/get_subscribe) | [Link](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml) | [Link](https://git.io/emzclash)
 | One Click | SnapdragonLee  | Slow   | [Website](https://github.com/SnapdragonLee/SystemProxy) | [Link](https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml)
 | One Click | vxiaov         | Slow   | [Website](https://github.com/vxiaov/free_proxies) | [Link](https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml)	 	
-| Manual    | Alvin9999      | Good   | [Website]([https://github.com/Alvin9999](https://github.com/Alvin9999/new-pac)) |	[Link](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) vless, vmess <br/> [Link](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) ssr, ss| |  
+| Manual    | Alvin9999      | Good   | [Website]([https://github.com/Alvin9999](https://github.com/Alvin9999/new-pac)) |	[Link](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) vless, vmess | [Link](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) ssr, ss |  
 | One Click | Masood         | Good   | [Website](https://github.com/ammasood12/nodes/) | [Link](https://raw.githubusercontent.com/ammasood12/nodes/Clash/Alvin9999.yaml)
+| Manual    | Provider       |        | [Website](https://freefq.com/) | |  | Note |
+| Manual    | Provider       |        | [Website](https://free-ss.site/) | |  | Note |
+| Links     | Provider      |        | [Website](https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links/blob/main/SUB%20LINKS) | | | Links to Other nodes |
+
+
+
 
 ### Convert SSR, SS, VLess, VMess
-| Type      | Website       | Notes |
-| --------- | -------------- | ------ |
-|ss, ssr, vmess | https://acl4ssr-sub.github.io/ |  Client: Clash <br\> Remote Configuration: None <br\> Backend Address: sub.xeton.dev
+| Type      | Website        | Config | Notes |
+| --------- | -------------- | ------ | ----- |
+|ss, ssr, vmess | https://acl4ssr-sub.github.io/ |  Client: Clash <br/> Remote Configuration: None <br/> Backend Address: sub.xeton.dev
 |multiple | https://v2rayse.com/node-convert |
-|vmess, trojan | https://sshkit.com/subconverter/ | Produce plain connection, no proxy filtering |
+|vmess, trojan | https://sshkit.com/subconverter/ | | Produce plain connection, no proxy filtering |
 
 Personal Tips: 
-1. I used  [v2rayse](https://v2rayse.com/node-convert) for converting 
+1. Use [v2rayse](https://v2rayse.com/node-convert) for making a template file filters including how many proxies are required in total by using same address multiple times.
+
 ### Other Websites
 
 
