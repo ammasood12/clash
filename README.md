@@ -5,8 +5,8 @@
 ### One Click Subscription
 | Type      | Provider       | Status | Website | Subscription 1 | Subscription 2 | Note |
 | --------- | -------------- | ------ | ------- | -------------- | -------------- | ---- |
-| One Click | Nodefree.org   | Good   | [Website](https://nodefree.org/) | [Link](https://nodefree.githubrowcontent.com/2025/02/20250227.yaml) | | visit website to update
-| One Click | proxypool_link | Good   | [Website](https://proxypool.link/) | [Link](https://proxypool.link/clash/config)
+| OneClick | Nodefree.org   | Good   | [Website](https://nodefree.org/) | [Link](https://nodefree.githubrowcontent.com/2025/02/20250227.yaml) | | visit website to update
+| OneClick | proxypool_link | Good   | [Website](https://proxypool.link/) | [Link](https://proxypool.link/clash/config)
 | One Click | free_datiya    | Good   | [Website](https://free.datiya.com/) | [Link](https://free.datiya.com/uploads/20250302-clash.yaml)  | | visit website to update
 | One Click | XrayVIP free   | Good   | [Website]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Link](https://www.xrayvip.com/free.yaml) | [Link](https://tt.vg/freeclash)
 | One Click | Anaer          | Good   | [Website](https://github.com/anaer/Sub) | [Link](https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml)
