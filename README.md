@@ -16,13 +16,17 @@
 | OneClick | vxiaov         | Slow   | [Website](https://github.com/vxiaov/free_proxies) | [Link](https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml)
 | OneClick | Masood         | Good   | [Website](https://github.com/ammasood12/nodes/) | [Simple Load Balance](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Clash_Simple.yaml) | [With Filters](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml) | Based on Alvin9999
 
+Useage Tips: 
+1. Update: select Profile > right click > Update
+2. Stable Connection: Proxies > Global > refresh wifi icon > select node with lesser number
 
 ### Bookmarks to find nodes
+`Bookmarks to find nodes`
 | Type      | Provider     | Website | Note |
 | --------- | ------------ | ------- | ---- |
-| Manual    | freefq.com   | [Website](https://freefq.com/) | Note |
-| Manual    | free-ss.site | [Website](https://free-ss.site/) | provide vless, vmess link |
-| Links     | Provider     | [Website](https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links/blob/main/SUB%20LINKS) | Links to Other nodes |
+| Manual    | freefq.com   | [Website](https://freefq.com/) | Multiple types of nodes |
+| Manual    | free-ss.site | [Website](https://free-ss.site/) | provide vless, vmess nodes |
+| Links     | [Mermeroo](https://github.com/mermeroo/) | [Website](https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links/blob/main/SUB%20LINKS) | Links to Other nodes |
 | Manual    | [Alvin9999](https://github.com/Alvin9999/new-pac) | [Link](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | vless, vmess | 
 | Manual    | [Alvin9999](https://github.com/Alvin9999/new-pac) | [Link](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | ssr, ss |  
 
@@ -37,9 +41,7 @@ Personal Tips:
 1. Use [v2rayse](https://v2rayse.com/node-convert) for making a template file filters including how many proxies are required in total by using same address multiple times.
 2. Use [SSHkit](https://sshkit.com/subconverter/) for making plain YAML file and add all other proxies in that. simple direct connections with load balance.
 
-Useage Tips: 
-1. Update: select Profile > right click > Update
-2. Stable Connection: Proxies > Global > refresh wifi icon > select node with lesser number
+
 
 
 
