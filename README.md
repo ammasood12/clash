@@ -14,14 +14,17 @@
 | One Click | SnapdragonLee  | Slow   | [Website](https://github.com/SnapdragonLee/SystemProxy) | [Link](https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml)
 | One Click | vxiaov         | Slow   | [Website](https://github.com/vxiaov/free_proxies) | [Link](https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml)	 	
 | Manual    | Alvin9999      | Good   | [Website]([https://github.com/Alvin9999](https://github.com/Alvin9999/new-pac)) |	[Link](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) vless, vmess <br/> [Link](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) ssr, ss| |  
-| One Click | Masood         | Good   | [Website]([https://proxypool.link/](https://github.com/ammasood12/nodes/) | [Link](https://raw.githubusercontent.com/ammasood12/nodes/Clash/Alvin9999.yaml)
+| One Click | Masood         | Good   | [Website](https://github.com/ammasood12/nodes/) | [Link](https://raw.githubusercontent.com/ammasood12/nodes/Clash/Alvin9999.yaml)
+
 ### Convert SSR, SS, VLess, VMess
 | Type      | Website       | Notes |
 | --------- | -------------- | ------ |
-|ss, ssr, vmess | [Link](https://acl4ssr-sub.github.io/) |
+|ss, ssr, vmess | https://acl4ssr-sub.github.io/ |  Client: Clash <br\> Remote Configuration: None <br\> Backend Address: sub.xeton.dev
 |multiple | https://v2rayse.com/node-convert |
-|vmess, trojan | https://sshkit.com/subconverter/ |
+|vmess, trojan | https://sshkit.com/subconverter/ | Produce plain connection, no proxy filtering |
 
+Personal Tips: 
+1. I used  [v2rayse](https://v2rayse.com/node-convert) for converting 
 ### Other Websites
 
 
