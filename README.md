@@ -13,8 +13,8 @@
 | One Click | Ermaozi        | Good   | [Website](https://github.com/ermaozi/get_subscribe) | [Link](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml) | [Link](https://git.io/emzclash)
 | One Click | SnapdragonLee  | Slow   | [Website](https://github.com/SnapdragonLee/SystemProxy) | [Link](https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml)
 | One Click | vxiaov         | Slow   | [Website](https://github.com/vxiaov/free_proxies) | [Link](https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml)	 	
-| Manual    | Alvin9999      | Good   | [Website]([https://github.com/Alvin9999](https://github.com/Alvin9999/new-pac)) |	[Link](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) vless, vmess | [Link](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) ssr, ss |  
-| One Click | Masood         | Good   | [Website](https://github.com/ammasood12/nodes/) | [Link](https://raw.githubusercontent.com/ammasood12/nodes/Clash/Alvin9999.yaml)
+| Manual    | Alvin9999      | Good   | [Website](https://github.com/Alvin9999/new-pac) |	[Link](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) vless, vmess | [Link](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) ssr, ss |  
+| One Click | Masood         | Good   | [Website](https://github.com/ammasood12/nodes/) | [Simple Load Balance](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Clash_Simple.yaml) | [With Filters](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml) | Based on Alvin9999 links
 | Manual    | Provider       |        | [Website](https://freefq.com/) | |  | Note |
 | Manual    | Provider       |        | [Website](https://free-ss.site/) | |  | provide vless, vmess link |
 | Links     | Provider      |        | [Website](https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links/blob/main/SUB%20LINKS) | | | Links to Other nodes |
