@@ -1,0 +1,83 @@
+
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+bind-address: "*"
+ipv6: false
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7894
+  fallback-filter:
+    geoip: false
+    ipcidr:
+    - 240.0.0.0/4
+  nameserver:
+    - https://puredns.org/dns-query
+    - tls://puredns.org:853
+  fallback:
+    - tcp://108.137.44.39
+    - tcp://108.137.44.9
+    - 108.137.44.39
+    - 108.137.44.9
+tun:
+  enable: true
+  stack: system 
+  macOS-auto-route: true
+  macOS-auto-detect-interface: true
+  dns-hijack:
+    - tcp://108.137.44.39:53
+experimental:
+  interface-name: en0
+
+proxies:
+  - {name: dongtaiwang.com节点1, server: 185.22.153.73, port: 17635, type: vmess, uuid: af7f07dc-d726-4b1e-967d-dbb6c594999f, sni: www.bing.com, alterId: 0, cipher: auto, tls: , skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: www.bing.com}}}
+  - name: dongtaiwang.com节点2
+    type: vless
+    server: 195.154.56.233
+    port: 22234
+    uuid: 22a54b72-9c39-4bb0-97d0-41bbaaca2a67
+    network: tcp
+    tls: true
+    servername: www.yahoo.com
+    flow: xtls-rprx-vision
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: tVDaWxsy54q7yRNRdJ718Gyt2HDoh_3R2y_PX22hhjM
+      short-id: 95c93be9
+    ip-version: dual
+    udp: true
+  - name: dongtaiwang.com节点ss_1
+    type: ss
+    server: 46.17.42.24
+    port: 23355
+    tls: false
+    password: dongtaiwang.com
+    ip-version: dual
+    udp: true
+    cipher: aes-256-gcm
+  - {name: dongtaiwang.com节点ss_2, server: 176.32.35.226, port: 11880, type: ssr, cipher: chacha20-ietf, password: dongtaiwang.com, protocol: auth_chain_a, obfs: plain, protocol-param: "", obfs-param: ""}
+  - {name: dongtaiwang.com节点ss_3, server: dongtaiwang5.com, port: 40000, type: ssr, cipher: chacha20-ietf, password: dongtaiwang.com, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+
+proxy-groups:
+  - name: sshkit-generator
+    type: load-balance
+    url: 'http://www.gstatic.com/generate_204'
+    interval: 300
+    strategy: consistent-hashing
+    proxies:
+      - dongtaiwang.com节点2
+      - dongtaiwang.com节点1
+      - dongtaiwang.com节点ss_1
+      - dongtaiwang.com节点ss_2
+      - dongtaiwang.com节点ss_3
+
+rules:
+ - MATCH,sshkit-generator
