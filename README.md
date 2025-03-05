@@ -1,6 +1,6 @@
 # Free Clash Nodes
 
-> I am just organizing and analyzing links' performance while residing in China.
+> I am just organizing and documenting nodes' performance while residing in China.
 
 ### One Click Subscription
 `OneClick: Copy the subscription link and add it as profile in Clash`
@@ -35,7 +35,7 @@ Useage Tips:
 ### Convert SSR, SS, VLess, VMess
 | Type      | Website        | Config | Notes |
 | --------- | -------------- | ------ | ----- |
-|ss, ssr, vmess | https://acl4ssr-sub.github.io/ |  Client: Clash <br/> Remote Configuration: None <br/> Backend Address: sub.xeton.dev
+|ss, ssr, vmess | https://acl4ssr-sub.github.io/ |  Client: Clash --> Remote Configuration: None --> Backend Address: sub.xeton.dev
 |multiple | https://v2rayse.com/node-convert |
 |vmess, trojan | https://sshkit.com/subconverter/ | output: Load Balance (Only Clash) | Produce plain connection, no proxy filtering |
 
