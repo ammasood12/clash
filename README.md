@@ -2,7 +2,10 @@
 
 > I am just organizing and documenting nodes' performance while residing in China.
 
-#[Speed Test](https://www.highspeedinternet.com/tools/speed-test)    #[Stream Test](https://www.highspeedinternet.com/tools/speed-test/streaming)
+### Testing
+`General websites usually not work`
+[Speed Test](https://www.highspeedinternet.com/tools/speed-test)
+[Stream Test](https://www.highspeedinternet.com/tools/speed-test/streaming)
 
 ### One Click Subscription
 `OneClick: Copy the subscription link and add it as profile in Clash`
