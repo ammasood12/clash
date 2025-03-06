@@ -5,14 +5,17 @@
 
 ### Testing
 `General websites usually not work`<br/>
-[Speed Test](https://www.highspeedinternet.com/tools/speed-test)
+[Speed Test](https://www.highspeedinternet.com/tools/speed-test)<br/>
 [Stream Test](https://www.highspeedinternet.com/tools/speed-test/streaming)
 
 ### One Click Subscription
 `Mannually Build from Alvin9999 nodes`
 | Type     | Provider       | Status | Website | Subscription 1 | Subscription 2 | Note |
 | -------- | -------------- | ------ | ------- | -------------- | -------------- | ---- |
-| OneClick | Masood         | Good⭐ | [Website](https://github.com/ammasood12/nodes/) | [Load Balance](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml) | [With Filters](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml) | Based on Alvin9999
+| OneClick | Masood         | Good⭐ | [Website](https://github.com/ammasood12/nodes/) | [Load Balance](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml) | [Filtered](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml) | Based on Alvin9999
+
+Load Balance: Every connection will be gone through the proxy while distributing traffic through different nodes. (similar to global access, but through multiple nodes)
+Filtered: Traffic will be filtered out according to rules.
 
 `OneClick: Copy the subscription link and add it as profile in Clash`
 | Type     | Provider       | Status | Website | Subscription 1 | Subscription 2 | Note |
