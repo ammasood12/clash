@@ -38,6 +38,7 @@
 | Poor | N/A | https://mxlsub.me/newfull <br/> https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false | |
 | Good | N/A | https://clash.221207.xyz/pubclashyaml  | |
 | Poor | N/A | https://igdux.top/5Hna | |
+| Good | [ShahidBhutta](https://github.com/shahidbhutta/Clash/blob/main/myProxyList) | ⭐ https://raw.githubusercontent.com/shahidbhutta/Clash/refs/heads/main/myProxyList | |
 > [!TIP]
 > **Update Proxy:** select Profile > right click > Update <br/>
 > **Stable Connection:** Proxies > Global > refresh 🛜 > sort **三** > select node with lesser number  <br/>
