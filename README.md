@@ -23,7 +23,7 @@ Filtered: Traffic will be filtered out according to rules.
 | OneClick | XrayVIP free   | Good⭐| [Website]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Link](https://www.xrayvip.com/free.yaml) | [Link](https://tt.vg/freeclash)
 | OneClick | proxypool_link | Good   | [Website](https://proxypool.link/) | [Link](https://proxypool.link/clash/config)
 | OneClick | free_datiya    | Good   | [Website](https://free.datiya.com/) | [Link](https://free.datiya.com/uploads/20250302-clash.yaml)  | | visit website to update
-| OneClick | Eternity       | Good   | [Website](https://github.com/mahdibland/V2RayAggregator) | [Link](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml) | [Link](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml)
+| OneClick | Eternity       | Good   | [Website](https://github.com/mahdibland/V2RayAggregator) | [Link](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml) ⭐ | [Link](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml)
 | OneClick | Anaer          | Good   | [Website](https://github.com/anaer/Sub) | [Link](https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml)
 | OneClick | Nodefree.org   | Good   | [Website](https://nodefree.org/) | [Link](https://nodefree.githubrowcontent.com/2025/02/20250227.yaml) | | visit website to update
 | OneClick | Ermaozi        | Good   | [Website](https://github.com/ermaozi/get_subscribe) | [Link](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml) | [Link](https://git.io/emzclash)
