@@ -1,6 +1,7 @@
 # Free Clash Nodes
 
 > I am just organizing and documenting nodes' performance while residing in China.
+> All these nodes don't provide stable connections. so you have to tweak
 
 ### Testing
 `General websites usually not work`<br/>
@@ -16,18 +17,18 @@
 `OneClick: Copy the subscription link and add it as profile in Clash`
 | Type     | Provider       | Status | Website | Subscription 1 | Subscription 2 | Note |
 | -------- | -------------- | ------ | ------- | -------------- | -------------- | ---- |
-| OneClick | Nodefree.org   | Good   | [Website](https://nodefree.org/) | [Link](https://nodefree.githubrowcontent.com/2025/02/20250227.yaml) | | visit website to update
+| OneClick | XrayVIP free   | Good   | [Website]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Link](https://www.xrayvip.com/free.yaml) | [Link](https://tt.vg/freeclash)
 | OneClick | proxypool_link | Good   | [Website](https://proxypool.link/) | [Link](https://proxypool.link/clash/config)
 | OneClick | free_datiya    | Good   | [Website](https://free.datiya.com/) | [Link](https://free.datiya.com/uploads/20250302-clash.yaml)  | | visit website to update
-| OneClick | XrayVIP free   | Good   | [Website]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Link](https://www.xrayvip.com/free.yaml) | [Link](https://tt.vg/freeclash)
 | OneClick | Anaer          | Good   | [Website](https://github.com/anaer/Sub) | [Link](https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml)
+| OneClick | Nodefree.org   | Good   | [Website](https://nodefree.org/) | [Link](https://nodefree.githubrowcontent.com/2025/02/20250227.yaml) | | visit website to update
 | OneClick | Ermaozi        | Good   | [Website](https://github.com/ermaozi/get_subscribe) | [Link](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml) | [Link](https://git.io/emzclash)
 | OneClick | SnapdragonLee  | Slow   | [Website](https://github.com/SnapdragonLee/SystemProxy) | [Link](https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml)
 | OneClick | vxiaov         | Slow   | [Website](https://github.com/vxiaov/free_proxies) | [Link](https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml)
 | OneClick | AiboBoxx       | Poor | [Website](https://github.com/aiboboxx/clashfree) | [Link](https://github.com/aiboboxx/clashfree/blob/main/clash.yml) | | Note |
 
 Useage Tips: 
-1. Update: select Profile > right click > Update
+1. Update Proxy: select Profile > right click > Update
 2. Stable Connection: Proxies > Global > refresh wifi icon > select node with lesser number
 
 ### Bookmarks to find nodes
