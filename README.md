@@ -51,11 +51,11 @@
 > If the domain name is not accessible `raw.githubusercontent.com`, the second address `cdn.jsdelivr.net` can be used, but there will be a 12-hour delay in content updates.
 
 ### Website Subscriptions
-| Status | Provider | Subscription 1 | Note |
+| Status | Provider | Subscription | Note |
 | ------ | -------  | -------------- | ---- |
-| Good   | [Datiya](https://free.datiya.com/) | https://free.datiya.com/uploads/20250302-clash.yaml | | visit website or change url to current date to update |
-| Good   | [Nodefree.org](https://nodefree.org/) | https://nodefree.githubrowcontent.com/2025/02/20250227.yaml | | visit website or change url to current date to update |
-|N/A     | [FreeClashNode](https://www.freeclashnode.com/free-node/) | https://node.freeclashnode.com/uploads/2025/03/0-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/1-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/2-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/3-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/4-20250306.yaml | Note |
+| Good   | [Datiya](https://free.datiya.com/) | https://free.datiya.com/uploads/20250302-clash.yaml | visit website or change url to current date to update |
+| Good   | [Nodefree.org](https://nodefree.org/) | https://nodefree.githubrowcontent.com/2025/02/20250227.yaml | visit website or change url to current date to update |
+|N/A     | [FreeClashNode](https://www.freeclashnode.com/free-node/) | https://node.freeclashnode.com/uploads/2025/03/0-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/1-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/2-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/3-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/4-20250306.yaml | |
 
 ### Bookmarks to find nodes
 | Type      | Provider | Note |
@@ -65,8 +65,8 @@
 | Manual    | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | vless, vmess | 
 | Manual    | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | ssr, ss |
 | Links     | [Website](https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links/blob/main/SUB%20LINKS) | Links to Other nodes |
-| Links     | [Website](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy) | Note |
-| Link      | [ClashForge](https://github.com/tony0392/ClashForge) | Note |
+| Links     | [Website](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy) | Links to Other nodes |
+| Links      | [ClashForge](https://github.com/tony0392/ClashForge) | Links to Other nodes |
 
 ### Convert SSR, SS, VLess, VMess
 | Type      | Website        | Config | Notes |
