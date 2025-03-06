@@ -20,17 +20,18 @@ Filtered: Traffic will be filtered out according to rules.
 `OneClick: Copy the subscription link and add it as profile in Clash`
 | Type     | Provider       | Status | Website | Subscription 1 | Subscription 2 | Note |
 | -------- | -------------- | ------ | ------- | -------------- | -------------- | ---- |
-| OneClick | XrayVIP free   | Good   | [Website]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Direct](https://www.xrayvip.com/free.yaml) | [tt.vg](https://tt.vg/freeclash)⭐ | |
-| OneClick | proxypool_link | Poor   | [Website](https://proxypool.link/) | [proxypool](https://proxypool.link/clash/config)  | | |
-| OneClick | free_datiya    | Good   | [Website](https://free.datiya.com/) | [Link](https://free.datiya.com/uploads/20250302-clash.yaml)  | | visit website or change url to current date to update |
-| OneClick | Eternity       | Good   | [Website](https://github.com/mahdibland/V2RayAggregator) | [Eternity](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml) ⭐ | [EternityAir](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml) | |
-| OneClick | Anaer          | Good   | [Website](https://github.com/anaer/Sub) | [Link](https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml) | | |
-| OneClick | Nodefree.org   | Good   | [Website](https://nodefree.org/) | [Link](https://nodefree.githubrowcontent.com/2025/02/20250227.yaml) | | visit website or change url to current date to update |
-| OneClick | Ermaozi        | Good   | [Website](https://github.com/ermaozi/get_subscribe) | [Link](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml) | [Link](https://git.io/emzclash) ⭐ | |
-| OneClick | SnapdragonLee  | Slow   | [Website](https://github.com/SnapdragonLee/SystemProxy) | [Link](https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml) | | |
-| OneClick | vxiaov         | Poor   | [Website](https://github.com/vxiaov/free_proxies) | [Link](https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml) | | |
-| OneClick | AiboBoxx       | Poor   | [Website](https://github.com/aiboboxx/clashfree) | [Link](https://github.com/aiboboxx/clashfree/blob/main/clash.yml) | | Note |
-| Type     | ZhangKaiTuGitHub | Good | [Website](https://github.com/zhangkaiitugithub/passcro) | [SpeedNodes](https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml)⭐ | [Meta](https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/meta.yaml) | |
+| OneClick | Good   | [XrayVIP]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Direct](https://www.xrayvip.com/free.yaml) | [tt.vg](https://tt.vg/freeclash)⭐ | |
+| OneClick | Poor   | [proxypool](https://proxypool.link/) | [proxypool](https://proxypool.link/clash/config)  | | |
+| OneClick | Good   | [Datiya](https://free.datiya.com/) | [Link](https://free.datiya.com/uploads/20250302-clash.yaml)  | | visit website or change url to current date to update |
+| OneClick | Good   | [Mahdibland](https://github.com/mahdibland/V2RayAggregator) | [Eternity](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml) ⭐ | [EternityAir](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml) | |
+| OneClick |  Good   | [Anaer](https://github.com/anaer/Sub) | [Link](https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml) | | |
+| OneClick | Good   | [Nodefree.org](https://nodefree.org/) | [Link](https://nodefree.githubrowcontent.com/2025/02/20250227.yaml) | | visit website or change url to current date to update |
+| OneClick | Good   | [Ermaozi](https://github.com/ermaozi/get_subscribe) | [Link](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml) | [Link](https://git.io/emzclash) ⭐ | |
+| OneClick | Slow   | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | [Link](https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml) | | |
+| OneClick | Poor   | [vxiaov](https://github.com/vxiaov/free_proxies) | [Link](https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml) | | |
+| OneClick | Poor   | [AiboBoxx](https://github.com/aiboboxx/clashfree) | [Link](https://github.com/aiboboxx/clashfree/blob/main/clash.yml) | | Note |
+| OneClick     | Good | [ZhangKaiTuGitHub](https://github.com/zhangkaiitugithub/passcro) | [SpeedNodes](https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml)⭐ | [Meta](https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/meta.yaml) | |
+| OneClick     | Status | [Website](https://github.com/ronghuaxueleng/get_v2/tree/main/pub) | [PawDroid](https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/pawdroid.yaml) <br/> [Combine](https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/combine.yaml)⭐ | [cfmem](https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/cfmem.yaml) <br/> [NoMoreWalls](https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/NoMoreWalls.yaml) | Note |
 
 Useage Tips: 
 1. Update Proxy: select Profile > right click > Update
