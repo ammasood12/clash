@@ -12,12 +12,12 @@
 `Mannually Build from Alvin9999 nodes`
 | Type     | Provider       | Status | Website | Subscription 1 | Subscription 2 | Note |
 | -------- | -------------- | ------ | ------- | -------------- | -------------- | ---- |
-| OneClick | Masood         | Good   | [Website](https://github.com/ammasood12/nodes/) | [Load Balance](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml) | [With Filters](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml) | Based on Alvin9999
+| OneClick | Masood         | Good⭐ | [Website](https://github.com/ammasood12/nodes/) | [Load Balance](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml) | [With Filters](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml) | Based on Alvin9999
 
 `OneClick: Copy the subscription link and add it as profile in Clash`
 | Type     | Provider       | Status | Website | Subscription 1 | Subscription 2 | Note |
 | -------- | -------------- | ------ | ------- | -------------- | -------------- | ---- |
-| OneClick | XrayVIP free   | Good   | [Website]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Link](https://www.xrayvip.com/free.yaml) | [Link](https://tt.vg/freeclash)
+| OneClick | XrayVIP free   | Good⭐| [Website]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Link](https://www.xrayvip.com/free.yaml) | [Link](https://tt.vg/freeclash)
 | OneClick | proxypool_link | Good   | [Website](https://proxypool.link/) | [Link](https://proxypool.link/clash/config)
 | OneClick | free_datiya    | Good   | [Website](https://free.datiya.com/) | [Link](https://free.datiya.com/uploads/20250302-clash.yaml)  | | visit website to update
 | OneClick | Eternity       | Good   | [Website](https://github.com/mahdibland/V2RayAggregator) | [Link](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml) | [Link](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml)
