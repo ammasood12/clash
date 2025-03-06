@@ -22,10 +22,10 @@ Filtered: Traffic will be filtered out according to rules.
 | -------- | -------------- | ------ | ------- | -------------- | -------------- | ---- |
 | OneClick | XrayVIP free   | Good   | [Website]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Direct](https://www.xrayvip.com/free.yaml) | [tt.vg](https://tt.vg/freeclash)⭐ | |
 | OneClick | proxypool_link | Good   | [Website](https://proxypool.link/) | [proxypool](https://proxypool.link/clash/config)  | | |
-| OneClick | free_datiya    | Good   | [Website](https://free.datiya.com/) | [Link](https://free.datiya.com/uploads/20250302-clash.yaml)  | | visit website to update
+| OneClick | free_datiya    | Good   | [Website](https://free.datiya.com/) | [Link](https://free.datiya.com/uploads/20250302-clash.yaml)  | | visit website or change url to current date to update |
 | OneClick | Eternity       | Good   | [Website](https://github.com/mahdibland/V2RayAggregator) | [Eternity](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml) ⭐ | [EternityAir](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml) | |
 | OneClick | Anaer          | Good   | [Website](https://github.com/anaer/Sub) | [Link](https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml) | | |
-| OneClick | Nodefree.org   | Good   | [Website](https://nodefree.org/) | [Link](https://nodefree.githubrowcontent.com/2025/02/20250227.yaml) | | visit website to update |
+| OneClick | Nodefree.org   | Good   | [Website](https://nodefree.org/) | [Link](https://nodefree.githubrowcontent.com/2025/02/20250227.yaml) | | visit website or change url to current date to update |
 | OneClick | Ermaozi        | Good   | [Website](https://github.com/ermaozi/get_subscribe) | [Link](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml) | [Link](https://git.io/emzclash) ⭐ | |
 | OneClick | SnapdragonLee  | Slow   | [Website](https://github.com/SnapdragonLee/SystemProxy) | [Link](https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml) | | |
 | OneClick | vxiaov         | Poor   | [Website](https://github.com/vxiaov/free_proxies) | [Link](https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml) | | |
