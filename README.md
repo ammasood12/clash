@@ -30,6 +30,7 @@ Filtered: Traffic will be filtered out according to rules.
 | OneClick | SnapdragonLee  | Slow   | [Website](https://github.com/SnapdragonLee/SystemProxy) | [Link](https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml) | | |
 | OneClick | vxiaov         | Poor   | [Website](https://github.com/vxiaov/free_proxies) | [Link](https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml) | | |
 | OneClick | AiboBoxx       | Poor   | [Website](https://github.com/aiboboxx/clashfree) | [Link](https://github.com/aiboboxx/clashfree/blob/main/clash.yml) | | Note |
+| Type     | ZhangKaiTuGitHub | Good | [Website](https://github.com/zhangkaiitugithub/passcro) | [SpeedNodes](https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml)⭐ | [Meta](https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/meta.yaml) | |
 
 Useage Tips: 
 1. Update Proxy: select Profile > right click > Update
