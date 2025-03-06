@@ -13,9 +13,10 @@
 > General websites usually not work <br/>
 
 ### One Click Clash Subscription
-| Status | Provider | Subscription 1 | Note |
-| ------ | -------  | -------------- | ---- |
-| Good⭐ | [Website](https://github.com/ammasood12/nodes/) | https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml <br/> https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml | Based on Alvin9999
+| Status | Provider | Subscription 1 |
+| ------ | -------  | -------------- |
+| Good⭐ | [Website](https://github.com/ammasood12/nodes/) | https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml <br/> https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml | 
+> Based on Alvin9999 <br/>
 
 > [!IMPORTANT]
 > **OneClick:** Copy the subscription link and add it as profile in Clash <br/>
@@ -39,6 +40,7 @@
 | Good | N/A | https://clash.221207.xyz/pubclashyaml  |
 | Poor | N/A | https://igdux.top/5Hna |
 | Good | [ShahidBhutta](https://github.com/shahidbhutta/Clash/blob/main/myProxyList) | ⭐ https://raw.githubusercontent.com/shahidbhutta/Clash/refs/heads/main/myProxyList |
+| Good | [free18](https://github.com/free18/v2ray) | ⭐ https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml |
 > [!TIP]
 > **Update Proxy:** select Profile > right click > Update <br/>
 > **Stable Connection:** Proxies > Global > refresh 🛜 > sort **三** > select node with lesser number  <br/>
