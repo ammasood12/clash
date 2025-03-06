@@ -35,7 +35,7 @@
 | OneClick | Poor   | [AiboBoxx](https://github.com/aiboboxx/clashfree) | [Link](https://github.com/aiboboxx/clashfree/blob/main/clash.yml) | | Note |
 | OneClick | Good | [ZhangKaiTuGitHub](https://github.com/zhangkaiitugithub/passcro) | [SpeedNodes](https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml)⭐ | [Meta](https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/meta.yaml) | |
 | OneClick | Good | [ronghuaxueleng](https://github.com/ronghuaxueleng/get_v2/tree/main/pub) | [Combine](https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/combine.yaml)⭐ | [cfmem](https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/cfmem.yaml) <br/> [NoMoreWalls](https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/NoMoreWalls.yaml) <br/> [PawDroid](https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/pawdroid.yaml) | Note |
-
+| OneClick | Good | [Provider](https://github.com/itxve/fetch-clash-node/tree/main/node) | [Merge](https://raw.githubusercontent.com/itxve/fetch-clash-node/refs/heads/main/node/merge.yaml) ⭐ | [Link](https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/merge.yaml) | Merged nodes |
 > [!TIP]
 > **Update Proxy:** select Profile > right click > Update <br/>
 > **Stable Connection:** Proxies > Global > refresh 🛜 > sort **三** > select node with lesser number  <br/>
