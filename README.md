@@ -17,7 +17,7 @@
 | OneClick | Good⭐ | [Website](https://github.com/ammasood12/nodes/) | [Load Balance](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml) | [Filtered](https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml) | Based on Alvin9999
 
 > [!IMPORTANT]
-> **Load Balance:** Every connection will be gone through the proxy while distributing traffic through different nodes. (similar to global access, but through multiple nodes)  <br/>
+> **Load Balance:** Every connection will go through the proxy while distributing traffic through different nodes. (similar to global access, but through multiple nodes)  <br/>
 > **Filtered:** Traffic will be filtered out according to rules.
 
 
