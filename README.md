@@ -21,7 +21,7 @@ Filtered: Traffic will be filtered out according to rules.
 | Type     | Provider       | Status | Website | Subscription 1 | Subscription 2 | Note |
 | -------- | -------------- | ------ | ------- | -------------- | -------------- | ---- |
 | OneClick | XrayVIP free   | Good   | [Website]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | [Direct](https://www.xrayvip.com/free.yaml) | [tt.vg](https://tt.vg/freeclash)⭐ | |
-| OneClick | proxypool_link | Good   | [Website](https://proxypool.link/) | [proxypool](https://proxypool.link/clash/config)  | | |
+| OneClick | proxypool_link | Poor   | [Website](https://proxypool.link/) | [proxypool](https://proxypool.link/clash/config)  | | |
 | OneClick | free_datiya    | Good   | [Website](https://free.datiya.com/) | [Link](https://free.datiya.com/uploads/20250302-clash.yaml)  | | visit website or change url to current date to update |
 | OneClick | Eternity       | Good   | [Website](https://github.com/mahdibland/V2RayAggregator) | [Eternity](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml) ⭐ | [EternityAir](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml) | |
 | OneClick | Anaer          | Good   | [Website](https://github.com/anaer/Sub) | [Link](https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml) | | |
