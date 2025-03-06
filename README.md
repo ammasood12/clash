@@ -36,14 +36,14 @@
 | Good | [Provider](https://github.com/itxve/fetch-clash-node/tree/main/node) | ⭐ https://raw.githubusercontent.com/itxve/fetch-clash-node/refs/heads/main/node/merge.yaml <br/> https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/merge.yaml |
 | Good | [Mahdibland](https://github.com/mahdibland/V2RayAggregator) | ⭐ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml <br/> https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml |
 | Good | [Ermaozi](https://github.com/ermaozi/get_subscribe) | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml <br/> ⭐ https://git.io/emzclash |
-| Poor | [proxypool](https://proxypool.link/) | https://proxypool.link/clash/config |
 | Good | [Anaer](https://github.com/anaer/Sub) | https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml |
 | Good | N/A | https://clash.221207.xyz/pubclashyaml  |
+| Poor | [proxypool](https://proxypool.link/) | https://proxypool.link/clash/config |
 | Poor | N/A | https://igdux.top/5Hna |
 | Poor | [vxiaov](https://github.com/vxiaov/free_proxies) | https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml |
 | Poor | [AiboBoxx](https://github.com/aiboboxx/clashfree) | https://github.com/aiboboxx/clashfree/blob/main/clash.yml |
 | Poor | N/A | https://mxlsub.me/newfull <br/> https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false |
-| Slow | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml |
+| Poor | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml |
 
 > [!TIP]
 > **Update Proxy:** select Profile > right click > Update <br/>
