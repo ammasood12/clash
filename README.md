@@ -13,36 +13,42 @@
 > General websites usually not work <br/>
 
 ### One Click Clash Subscription
-| Type     | Status | Provider | Subscription 1 | Note |
-| -------- | ------ | -------  | -------------- | ---- |
-| OneClick | Good⭐ | [Website](https://github.com/ammasood12/nodes/) | https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml <br/> https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml | Based on Alvin9999
+| Status | Provider | Subscription 1 | Note |
+| ------ | -------  | -------------- | ---- |
+| Good⭐ | [Website](https://github.com/ammasood12/nodes/) | https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml <br/> https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml | Based on Alvin9999
 
 > [!IMPORTANT]
 > **OneClick:** Copy the subscription link and add it as profile in Clash <br/>
 > **Load Balance:** Every connection will go through the proxy while distributing traffic through different nodes. (similar to global access, but through multiple nodes)  <br/>
 > **Filtered:** Traffic will be filtered out according to rules.
 
-| Type     | Status | Provider | Subscriptions  | Note |
-| -------- | ------ | -------  | -------------- | ---- |
-| OneClick | Good   | [XrayVIP]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | https://www.xrayvip.com/free.yaml <br/> ⭐ https://tt.vg/freeclash  | |
-| OneClick | Poor   | [proxypool](https://proxypool.link/) | https://proxypool.link/clash/config | | |
-| Website  | Good   | [Datiya](https://free.datiya.com/) | https://free.datiya.com/uploads/20250302-clash.yaml | | visit website or change url to current date to update |
-| OneClick | Good   | [Mahdibland](https://github.com/mahdibland/V2RayAggregator) | ⭐ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml <br/> https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml | |
-| OneClick | Good   | [Anaer](https://github.com/anaer/Sub) | https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml | | |
-| Website  | Good   | [Nodefree.org](https://nodefree.org/) | https://nodefree.githubrowcontent.com/2025/02/20250227.yaml | | visit website or change url to current date to update |
-| OneClick | Good   | [Ermaozi](https://github.com/ermaozi/get_subscribe) | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml <br/> ⭐ https://git.io/emzclash | |
-| OneClick | Slow   | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml | | |
-| OneClick | Poor   | [vxiaov](https://github.com/vxiaov/free_proxies) | https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml | | |
-| OneClick | Poor   | [AiboBoxx](https://github.com/aiboboxx/clashfree) | https://github.com/aiboboxx/clashfree/blob/main/clash.yml | | Note |
-| OneClick | Good | [ZhangKaiTuGitHub](https://github.com/zhangkaiitugithub/passcro) | ⭐ https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml <br/> https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/meta.yaml | |
-| OneClick | Good | [ronghuaxueleng](https://github.com/ronghuaxueleng/get_v2/tree/main/pub) | ⭐ https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/combine.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/cfmem.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/NoMoreWalls.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/pawdroid.yaml | Note |
-| OneClick | Good | [Provider](https://github.com/itxve/fetch-clash-node/tree/main/node) | ⭐ https://raw.githubusercontent.com/itxve/fetch-clash-node/refs/heads/main/node/merge.yaml <br/> https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/merge.yaml | Merged nodes |
-| Website  | N/A | [FreeClashNode](https://www.freeclashnode.com/free-node/) | https://node.freeclashnode.com/uploads/2025/03/0-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/1-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/2-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/3-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/4-20250306.yaml | Note |
-| Type     | Status | Provider | https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false | Note |
+| Status | Provider | Subscriptions  | Note |
+| ------ | -------  | -------------- | ---- |
+| Good   | [XrayVIP]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | https://www.xrayvip.com/free.yaml <br/> ⭐ https://tt.vg/freeclash  | |
+| Poor   | [proxypool](https://proxypool.link/) | https://proxypool.link/clash/config | | |
+| Good   | [Mahdibland](https://github.com/mahdibland/V2RayAggregator) | ⭐ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml <br/> https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml | |
+| Good   | [Anaer](https://github.com/anaer/Sub) | https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml | | |
+| Good   | [Ermaozi](https://github.com/ermaozi/get_subscribe) | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml <br/> ⭐ https://git.io/emzclash | |
+| Slow   | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml | | |
+| Poor   | [vxiaov](https://github.com/vxiaov/free_proxies) | https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml | | |
+| Poor   | [AiboBoxx](https://github.com/aiboboxx/clashfree) | https://github.com/aiboboxx/clashfree/blob/main/clash.yml | | Note |
+| Good | [ZhangKaiTuGitHub](https://github.com/zhangkaiitugithub/passcro) | ⭐ https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml <br/> https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/meta.yaml | |
+| Good | [ronghuaxueleng](https://github.com/ronghuaxueleng/get_v2/tree/main/pub) | ⭐ https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/combine.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/cfmem.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/NoMoreWalls.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/pawdroid.yaml | Note |
+| Good | [Provider](https://github.com/itxve/fetch-clash-node/tree/main/node) | ⭐ https://raw.githubusercontent.com/itxve/fetch-clash-node/refs/heads/main/node/merge.yaml <br/> https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/merge.yaml | Merged nodes |
+| N/A | N/A | https://mxlsub.me/newfull <br/> https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false | |
+| N/A | N/A | https://clash.221207.xyz/pubclashyaml  | |
+| N/A | N/A | https://igdux.top/5Hna | |
 > [!TIP]
 > **Update Proxy:** select Profile > right click > Update <br/>
 > **Stable Connection:** Proxies > Global > refresh 🛜 > sort **三** > select node with lesser number  <br/>
 > If the domain name is not accessible `raw.githubusercontent.com`, the second address `cdn.jsdelivr.net` can be used, but there will be a 12-hour delay in content updates.
+
+### Website Subscriptions
+| Status | Provider | Subscription 1 | Note |
+| ------ | -------  | -------------- | ---- |
+| Good   | [Datiya](https://free.datiya.com/) | https://free.datiya.com/uploads/20250302-clash.yaml | | visit website or change url to current date to update |
+| Good   | [Nodefree.org](https://nodefree.org/) | https://nodefree.githubrowcontent.com/2025/02/20250227.yaml | | visit website or change url to current date to update |
+|N/A     | [FreeClashNode](https://www.freeclashnode.com/free-node/) | https://node.freeclashnode.com/uploads/2025/03/0-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/1-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/2-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/3-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/4-20250306.yaml | Note |
 
 ### Bookmarks to find nodes
 | Type      | Provider | Note |
