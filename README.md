@@ -22,23 +22,23 @@
 > **Load Balance:** Every connection will go through the proxy while distributing traffic through different nodes. (similar to global access, but through multiple nodes)  <br/>
 > **Filtered:** Traffic will be filtered out according to rules.
 
-| Status | Provider | Subscriptions  | Note |
-| ------ | -------  | -------------- | ---- |
-| Good   | [XrayVIP]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | https://www.xrayvip.com/free.yaml <br/> ⭐ https://tt.vg/freeclash  | |
-| Poor   | [proxypool](https://proxypool.link/) | https://proxypool.link/clash/config | | |
-| Good   | [Mahdibland](https://github.com/mahdibland/V2RayAggregator) | ⭐ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml <br/> https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml | |
-| Good   | [Anaer](https://github.com/anaer/Sub) | https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml | | |
-| Good   | [Ermaozi](https://github.com/ermaozi/get_subscribe) | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml <br/> ⭐ https://git.io/emzclash | |
-| Slow   | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml | | |
-| Poor   | [vxiaov](https://github.com/vxiaov/free_proxies) | https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml | | |
-| Poor   | [AiboBoxx](https://github.com/aiboboxx/clashfree) | https://github.com/aiboboxx/clashfree/blob/main/clash.yml | | Note |
-| Good | [ZhangKaiTuGitHub](https://github.com/zhangkaiitugithub/passcro) | ⭐ https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml <br/> https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/meta.yaml | |
-| Good | [ronghuaxueleng](https://github.com/ronghuaxueleng/get_v2/tree/main/pub) | ⭐ https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/combine.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/cfmem.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/NoMoreWalls.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/pawdroid.yaml | Note |
-| Good | [Provider](https://github.com/itxve/fetch-clash-node/tree/main/node) | ⭐ https://raw.githubusercontent.com/itxve/fetch-clash-node/refs/heads/main/node/merge.yaml <br/> https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/merge.yaml | Merged nodes |
-| Poor | N/A | https://mxlsub.me/newfull <br/> https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false | |
-| Good | N/A | https://clash.221207.xyz/pubclashyaml  | |
-| Poor | N/A | https://igdux.top/5Hna | |
-| Good | [ShahidBhutta](https://github.com/shahidbhutta/Clash/blob/main/myProxyList) | ⭐ https://raw.githubusercontent.com/shahidbhutta/Clash/refs/heads/main/myProxyList | |
+| Status | Provider | Subscriptions  |
+| ------ | -------  | -------------- |
+| Good   | [XrayVIP]( https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) | https://www.xrayvip.com/free.yaml <br/> ⭐ https://tt.vg/freeclash  |
+| Poor   | [proxypool](https://proxypool.link/) | https://proxypool.link/clash/config |
+| Good   | [Mahdibland](https://github.com/mahdibland/V2RayAggregator) | ⭐ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml <br/> https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/EternityAir.yml |
+| Good   | [Anaer](https://github.com/anaer/Sub) | https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml |
+| Good   | [Ermaozi](https://github.com/ermaozi/get_subscribe) | https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml <br/> ⭐ https://git.io/emzclash |
+| Slow   | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml |
+| Poor   | [vxiaov](https://github.com/vxiaov/free_proxies) | https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml |
+| Poor   | [AiboBoxx](https://github.com/aiboboxx/clashfree) | https://github.com/aiboboxx/clashfree/blob/main/clash.yml |
+| Good | [ZhangKaiTuGitHub](https://github.com/zhangkaiitugithub/passcro) | ⭐ https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml <br/> https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/meta.yaml |
+| Good | [ronghuaxueleng](https://github.com/ronghuaxueleng/get_v2/tree/main/pub) | ⭐ https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/combine.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/cfmem.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/NoMoreWalls.yaml <br/> https://raw.githubusercontent.com/ronghuaxueleng/get_v2/refs/heads/main/pub/pawdroid.yaml |
+| Good | [Provider](https://github.com/itxve/fetch-clash-node/tree/main/node) | ⭐ https://raw.githubusercontent.com/itxve/fetch-clash-node/refs/heads/main/node/merge.yaml <br/> https://cdn.jsdelivr.net/gh/itxve/fetch-clash-node/node/merge.yaml |
+| Poor | N/A | https://mxlsub.me/newfull <br/> https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false |
+| Good | N/A | https://clash.221207.xyz/pubclashyaml  |
+| Poor | N/A | https://igdux.top/5Hna |
+| Good | [ShahidBhutta](https://github.com/shahidbhutta/Clash/blob/main/myProxyList) | ⭐ https://raw.githubusercontent.com/shahidbhutta/Clash/refs/heads/main/myProxyList |
 > [!TIP]
 > **Update Proxy:** select Profile > right click > Update <br/>
 > **Stable Connection:** Proxies > Global > refresh 🛜 > sort **三** > select node with lesser number  <br/>
