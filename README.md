@@ -14,8 +14,8 @@
 
 ### Prefered Clients
 Windows [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases) <br/>
-Andoird [Clash Meta](https://clashmetaforandroid.com/) <br/>
-iOS [SingBox](https://getsingbox.com/)
+Andoird [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/) <br/>
+iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 
 ### One Click Clash Subscription
 | Status | Provider | Subscription 1 |
