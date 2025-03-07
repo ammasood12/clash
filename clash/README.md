@@ -1,5 +1,3 @@
-#Load_Balance.yaml
-
 Used Links from [Alvin9999](https://github.com/Alvin9999/new-pac)
 ```
 ssr://ZG9uZ3RhaXdhbmc1LmNvbTo0MDAwMDphdXRoX2NoYWluX2E6Y2hhY2hhMjAtaWV0Zjp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1aRzl1WjNSaGFYZGhibWN1WTI5dDVyU2I1cDJKNTUtMg
@@ -9,9 +7,16 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImRvbmd0YWl3YW5nLmNvbVx1ODI4Mlx1NzBCOTEi
 vless://22a54b72-9c39-4bb0-97d0-41bbaaca2a67@195.154.56.233:22234?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=tVDaWxsy54q7yRNRdJ718Gyt2HDoh_3R2y_PX22hhjM&sid=95c93be9&type=tcp&headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B92
 ```
 
-###Method
+###Load_Balance.yaml
 1. Used https://acl4ssr-sub.github.io/ to generate SSR nodes as proxies
 2. Used [SSHkit](https://sshkit.com/subconverter/) for vmess nodes as proxies
 Used [v2rayse](https://v2rayse.com/node-convert) to generate other nodes as proxies
 3. add proxies generated from other links to SSR nodes files
 4. add proxies name into groups 
+
+###Alvin9999.yaml
+1. Used https://acl4ssr-sub.github.io/ to generate SSR nodes as proxies
+2. Used [SSHkit](https://sshkit.com/subconverter/) for vmess nodes as proxies
+Used [v2rayse](https://v2rayse.com/node-convert) to generate other nodes as proxies (use same node multiple times to generate desired number of proxies)
+3. put proxies generated from other links into v2rayse generated YAML file
+4. add/addjust proxies name into groups 
