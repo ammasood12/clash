@@ -12,7 +12,7 @@
 | Stream | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test/streaming) |
 > General websites usually not work <br/>
 
-Client Download
+### Prefered Clients
 Windows [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases) <br/>
 Andoird [Clash Meta](https://clashmetaforandroid.com/) <br/>
 iOS [SingBox](https://getsingbox.com/)
