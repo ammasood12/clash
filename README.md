@@ -60,10 +60,14 @@ iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 | ------ | -------  | ------------ |
 | Good   | [Datiya](https://free.datiya.com/) | https://free.datiya.com/uploads/20250302-clash.yaml |
 | Good   | [Nodefree.org](https://nodefree.org/) | https://nodefree.githubrowcontent.com/2025/02/20250227.yaml |
-|N/A     | [FreeClashNode](https://www.freeclashnode.com/free-node/) | https://node.freeclashnode.com/uploads/2025/03/0-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/1-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/2-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/3-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/4-20250306.yaml | |
+|N/A     | [FreeClashNode](https://www.freeclashnode.com/free-node/) | https://node.freeclashnode.com/uploads/2025/03/0-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/1-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/2-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/3-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/4-20250306.yaml |
+| Status | [v2rayse](https://v2rayse.com/) | [Live Nodes](https://v2rayse.com/live-node) <br/> [Free Nodes](https://v2rayse.com/free-node) |
 
 > [!TIP]
 > **Update Proxy:** visit website or change url to current date to update <br/>
+> **v2rayse:**
+> visit telegram https://t.me/changfengchannel or https://t.me/changfengfenxiang to get password
+> select all >> conversion >> clash
 
 ### Bookmarks to find nodes
 | Type      | Provider | Note |
