@@ -49,7 +49,7 @@ iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 | Poor | [AiboBoxx](https://github.com/aiboboxx/clashfree) | https://github.com/aiboboxx/clashfree/blob/main/clash.yml |
 | Poor | N/A | https://mxlsub.me/newfull <br/> https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false |
 | Poor | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml |
-| N/A | [PeaSoft](https://github.com/peasoft/NoMoreWalls) | [NoMoreWalls](https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml)  |
+| N/A | [PeaSoft](https://github.com/peasoft/NoMoreWalls) | https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml |
 
 > [!TIP]
 > **Update Proxy:** select Profile > right click > Update <br/>
