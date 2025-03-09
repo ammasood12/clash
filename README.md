@@ -49,6 +49,7 @@ iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 | Poor | [AiboBoxx](https://github.com/aiboboxx/clashfree) | https://github.com/aiboboxx/clashfree/blob/main/clash.yml |
 | Poor | N/A | https://mxlsub.me/newfull <br/> https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false |
 | Poor | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml |
+| N/A | [PeaSoft](https://github.com/peasoft/NoMoreWalls) | [NoMoreWalls](https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml)  |
 
 > [!TIP]
 > **Update Proxy:** select Profile > right click > Update <br/>
@@ -70,15 +71,17 @@ iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 > select all >> conversion >> clash
 
 ### Bookmarks to find nodes
-| Type      | Provider | Note |
-| --------- | ------- | ---- |
-| Manual    | [freefq.com](https://freefq.com/) | Multiple types of nodes |
-| Manual    | [free-ss.site](https://free-ss.site/) | provide vless, vmess nodes |
-| Manual    | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | vless, vmess | 
-| Manual    | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | ssr, ss |
-| Links     | [Website](https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links/blob/main/SUB%20LINKS) | Links to Other nodes |
-| Links     | [Website](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy) | Links to Other nodes |
-| Links      | [ClashForge](https://github.com/tony0392/ClashForge) | Links to Other nodes |
+| Type   | Provider | Note |
+| ------ | ------- | ---- |
+| Manual | [freefq.com](https://freefq.com/) | Multiple types of nodes |
+| Manual | [free-ss.site](https://free-ss.site/) | provide vless, vmess nodes |
+| Manual | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | vless, vmess | 
+| Manual | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | ssr, ss |
+| Links  | [Mermeroo](https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links/blob/main/SUB%20LINKS) | Links to Other nodes |
+| Links  | [Website](https://github.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy) | Links to Other nodes |
+| Links  | [ClashForge](https://github.com/tony0392/ClashForge) | Links to Other nodes |
+| Nodes  | [PawDroid](https://github.com/Pawdroid/Free-servers) | nodes |
+| Nodes  | [barry-far](https://github.com/barry-far/V2ray-Configs) | nodes |
 
 ### Convert SSR, SS, VLess, VMess
 | Type      | Website        | Config | Notes |
