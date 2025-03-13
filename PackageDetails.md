@@ -22,32 +22,22 @@
 ### OneYuanAirport
 ![OneYuanAirport](https://github.com/ammasood12/nodes/blob/main/Packages/oneYuanAirport.png)
 ### PapayaCloud
-<a name="PapayaCloud"></a>
 ![PapayaCloud](https://github.com/ammasood12/nodes/blob/main/Packages/PapayaCloud.png)
 ### PapayaCloud2
-<a name="PapayaCloud2"></a>
 ![PapayaCloud2](https://github.com/ammasood12/nodes/blob/main/Packages/PapayaCloud2.png)
 ### SSone
-<a name="SSone"></a>
 ![SSone](https://github.com/ammasood12/nodes/blob/main/Packages/ssone.png)
 ### KeLeYun
-<a name="KeLeYun"></a>
 ![KeLeYun](https://github.com/ammasood12/nodes/blob/main/Packages/KeLeYun.png)
 ### ColaCloud
-<a name="ColaCloud"></a>
 ![ColaCloud](https://github.com/ammasood12/nodes/blob/main/Packages/ColaCloud.png)
 ### Riolu
-<a name="Riolu"></a>
 ![Riolu](https://github.com/ammasood12/nodes/blob/main/Packages/riolu.png)
 ### VPNjs
-<a name="VPNjs"></a>
 ![VPNjs](https://github.com/ammasood12/nodes/blob/main/Packages/vpnjs.png)
 ### CokeCloud
-<a name="CokeCloud"></a>
 ![CokeCloud](https://github.com/ammasood12/nodes/blob/main/Packages/cokecloud.png)
 ### DaXun
-<a name="DaXun"></a>
 ![DaXun](https://github.com/ammasood12/nodes/blob/main/Packages/daxun.png)
 ### LCA
-<a name="LCA"></a>
 ![LCA](https://github.com/ammasood12/nodes/blob/main/Packages/lca.png)
