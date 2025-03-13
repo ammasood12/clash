@@ -3,6 +3,7 @@
 | Status | Provider       | Website | OtherLinks | Packages | Notes |
 | ------ | -------------- | ------- | ---------- | -------- | ----- |
 | Status | Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) |  | |
+| Status | Services Links | [Website](https://clashxiazai.com/clash-nodes-providers/) |  | |
 | Cheap  | OneYuanAirport | [Website](https://一元机场.com/) | .com \| .ink \| .art \| .net \| .click \| .xyz \| .club | [Packages](#OneYuanAirport) | not work >> whatsapp calling, chatgpt |
 | Cheap  | PapayaCloud    | [Website](https://muguacloud.top/) | .top \| .pw \| .art | [Packages](#PapayaCloud) | Notes |
 | Status | PapayaCloud2   | [Website](https://muguacloud.win/), [QuickLink](https://4399.bid/) | .win \| .app | [Packages](#PapayaCloud2) | Notes |
