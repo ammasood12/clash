@@ -1,5 +1,5 @@
 # Free Clash Nodes
-`Updated at 07-March-2025`
+`Updated at 13-March-2025`
 
 > [!NOTE]
 > I am just organizing and documenting nodes' performance while residing in China. <br/>
@@ -56,6 +56,14 @@ iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 > **Update Proxy:** select Profile > right click > Update <br/>
 > **Stable Connection:** Proxies > Global > refresh 🛜 > sort **三** > select node with lesser number  <br/>
 > If the domain name is not accessible `raw.githubusercontent.com`, the second address `cdn.jsdelivr.net` can be used, but there will be a 12-hour delay in content updates.
+
+### Buy Subscriptions
+| Status | Provider       | Website | Packages | Other Links |
+| ------ | -------------- | ------- | -------- | ----------- |
+| Status | OneYuanAirport | [Website](https://一元机场.com/) | Packages | .com, .ink, .art, .net, .click, .xyz, .club|
+| Status | Papaya Cloud   | [Website](https://muguacloud.top/) | Packages | .top, .pw, .art|
+> [!TIP]
+> use other links to access in China <br/>
 
 ### Website Subscriptions
 | Status | Provider | Subscription |
