@@ -5,6 +5,17 @@
 > I am just organizing and documenting nodes' performance while residing in China. <br/>
 > All these nodes don't provide stable connections. so you have to tweak
 
+### Buy Subscriptions Details
+[Website](https://github.com/ammasood12/nodes/tree/1894a2643dba3cdeb350a7c34222c81be6912067/Packages)
+
+### Free VPN
+| Status | Provider | Download |
+| ------ | -------  | ------------- |
+| Status | [FreeGate](http://us.dongtaiwang.com/loc/download.en.php) | [Download](https://d2.freessr2.xyz/fg800p.zip), [Download](https://d.dtku35.xyz/fg800p.zip) |
+| Status | [UltraSurf](https://www.ultrasurf.us/) | [Download](https://d2.freessr2.xyz/u2132.exe), [Download](https://d.dtku35.xyz/u2132.exe) |
+| Status | [Anyi](https://www.anyi8.com/) | [Website](https://www.sharingdais.com/), [Website](https://www.ruijieguoji.com/) |
+| Status | [VpnGate](https://www.vpngate.net/en/) | |
+
 ### Useful Links
 | Type     | link |
 | ------   | ---- |
@@ -56,17 +67,6 @@ iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 > **Update Proxy:** select Profile > right click > Update <br/>
 > **Stable Connection:** Proxies > Global > refresh 🛜 > sort **三** > select node with lesser number  <br/>
 > If the domain name is not accessible `raw.githubusercontent.com`, the second address `cdn.jsdelivr.net` can be used, but there will be a 12-hour delay in content updates.
-
-### Buy Subscriptions
-[Website](https://github.com/ammasood12/nodes/tree/1894a2643dba3cdeb350a7c34222c81be6912067/Packages)
-| Status | Provider       | Website | Packages | Other Links |
-| ------ | -------------- | ------- | -------- | ----------- |
-| Status | OneYuanAirport | [Website](https://一元机场.com/) | Packages | .com, .ink, .art, .net, .click, .xyz, .club|
-| Status | Papaya Cloud   | [Website](https://muguacloud.top/) | Packages | .top, .pw, .art|
-| Status | Papaya Cloud 2 | [Website](https://muguacloud.win/) | Packages | .win, .app|
-> [!TIP]
-> use other links to access in China <br/>
-
 
 ### Website Subscriptions (Free)
 | Status | Provider | Subscription |
