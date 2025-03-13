@@ -21,7 +21,7 @@
 ### Useful Links
 | Type     | link |
 | ------   | ---- |
-| Speed    | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test) |
+| Speed    | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test), [Fast.com](https://fast.com/), [SpeedTest.net](https://www.speedtest.net/), [SpeedTest.cn](https://www.speedtest.cn/) |
 | Stream   | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test/streaming) |
 | Check IP | [Astrill](https://www.astrill.com/what-is-my-ip), [WhatIsMyIP](https://www.whatismyip.com/) |
 > General websites usually not work <br/>
