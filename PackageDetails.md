@@ -4,7 +4,7 @@
 | ------ | -------------- | ------- | ---------- | -------- | ----- |
 | Status | Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) |  | |
 | Cheap  | OneYuanAirport | [Website](https://一元机场.com/) | .com, .ink, .art, .net, .click, .xyz, .club | [Packages](#OneYuanAirport) | not work >> whatsapp calling, chatgpt |
-| Status | PapayaCloud    | [Website](https://muguacloud.top/) | .top, .pw, .art | [Packages](#PapayaCloud) | Notes |
+| Cheap  | PapayaCloud    | [Website](https://muguacloud.top/) | .top, .pw, .art | [Packages](#PapayaCloud) | Notes |
 | Status | PapayaCloud2   | [Website](https://muguacloud.win/), [QuickLink](https://4399.bid/) | .win, .app | [Packages](#PapayaCloud2) | Notes |
 | Status | SSone          | [Website](https://ssonegames.xn--xhq8sm16c5ls.com/dashboard) | [website](https://hello-ssone.com/), [website](https://hello36d.com/) | [Packages](#SSone) | Notes |
 | Status | KeLeYun        | [Website](https://q0av6w.klwiuehge.top/#/plan) | [Website](https://可乐云.com/), [Website](https://q0av6w.klwiuehge.top/), [Website](https://kly2026.com/),  | [Packages](#KeLeYun) | Notes |
