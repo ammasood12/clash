@@ -5,11 +5,12 @@
 > I am just organizing and documenting nodes' performance while residing in China. <br/>
 > All these nodes don't provide stable connections. so you have to tweak
 
-### Node SpeedTest 
-| Test   | link |
-| ------ | ---- |
-| Speed  | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test) |
-| Stream | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test/streaming) |
+### Useful Links
+| Type     | link |
+| ------   | ---- |
+| Speed    | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test) |
+| Stream   | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test/streaming) |
+| Check IP | [Astrill](https://www.astrill.com/what-is-my-ip), [WhatIsMyIP](https://www.whatismyip.com/) |
 > General websites usually not work <br/>
 
 ### Prefered Clients
