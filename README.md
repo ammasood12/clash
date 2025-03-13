@@ -42,11 +42,10 @@
 | --------   | ------- | ------- | --- | ----- | ----- |
 | [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [64-bit](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe) \| [ARM](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_arm64-setup.exe) | Android | iOS | [Intel](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64.dmg) \| [Apple](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_aarch64.dmg)| [DEB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_amd64.deb) \| [RPM](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge-2.1.2-1.x86_64.rpm)|
 | [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)  | Windows | [Andoid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-universal-release.apk) | iOS | MacOS | Linux |
-| [SingBox](https://github.com/SagerNet/sing-box/releases/) | Windows | [Android](https://sing-box.sagernet.org/clients/android/) | Search AppStore | [MacOS](https://sing-box.sagernet.org/clients/apple/) | Linux |
-
-Windows  <br/>
-Andoird [Download]() <br/>
-iOS [Download]()
+| [SingBox](https://github.com/SagerNet/sing-box/releases/) | Windows | [Android](https://sing-box.sagernet.org/clients/android/) | [iOS](https://apps.apple.com/us/app/sing-box-vt/id6673731168) | [MacOS](https://sing-box.sagernet.org/clients/apple/) | Linux |
+| v2Box   | Windows | Android | [iOS](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) | MacOS | Linux |
+| Shadowrocket  | Windows | Android | [iOS](https://apps.apple.com/us/app/shadowrocket/id932747118) | MacOS | Linux |
+> iOS apps need to be purchased and not working with Clash Subscription links<br/>
 
 ### One Click Clash Subscription (Free)
 | Status | Provider | Subscriptions |
