@@ -15,6 +15,7 @@
 | Status | [UltraSurf](https://www.ultrasurf.us/) | [Download](https://d2.freessr2.xyz/u2132.exe), [Download](https://d.dtku35.xyz/u2132.exe) |
 | Status | [Anyi](https://www.anyi8.com/) | [Website](https://www.sharingdais.com/), [Website](https://www.ruijieguoji.com/) |
 | Status | [VpnGate](https://www.vpngate.net/en/) | |
+| Status | [VPNify](https://vpnifyapp.com/) | Download |
 
 ### Useful Links
 | Type     | link |
