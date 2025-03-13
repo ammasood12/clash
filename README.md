@@ -17,7 +17,7 @@
 
 
 ### Buy Subscriptions
-[Website](https://github.com/ammasood12/nodes/blob/main/PackageDetails.md)
+[CLick Here!](https://github.com/ammasood12/nodes/blob/main/PackageDetails.md)
 
 ### Free VPN
 | Status | Provider | Details |
