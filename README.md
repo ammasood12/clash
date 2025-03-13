@@ -18,7 +18,7 @@ Windows [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/release
 Andoird [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/) <br/>
 iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 
-### One Click Clash Subscription
+### One Click Clash Subscription (Free)
 | Status | Provider | Subscriptions |
 | ------ | -------  | ------------- |
 | Good⭐ | [Website](https://github.com/ammasood12/nodes/) | https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml <br/> https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml | 
@@ -58,14 +58,17 @@ iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 > If the domain name is not accessible `raw.githubusercontent.com`, the second address `cdn.jsdelivr.net` can be used, but there will be a 12-hour delay in content updates.
 
 ### Buy Subscriptions
+[Website](https://github.com/ammasood12/nodes/tree/1894a2643dba3cdeb350a7c34222c81be6912067/Packages)
 | Status | Provider       | Website | Packages | Other Links |
 | ------ | -------------- | ------- | -------- | ----------- |
 | Status | OneYuanAirport | [Website](https://一元机场.com/) | Packages | .com, .ink, .art, .net, .click, .xyz, .club|
 | Status | Papaya Cloud   | [Website](https://muguacloud.top/) | Packages | .top, .pw, .art|
+| Status | Papaya Cloud 2 | [Website](https://muguacloud.win/) | Packages | .win, .app|
 > [!TIP]
 > use other links to access in China <br/>
 
-### Website Subscriptions
+
+### Website Subscriptions (Free)
 | Status | Provider | Subscription |
 | ------ | -------  | ------------ |
 | Good   | [Datiya](https://free.datiya.com/) | https://free.datiya.com/uploads/20250302-clash.yaml |
