@@ -6,7 +6,7 @@
 > All these nodes don't provide stable connections. so you have to tweak
 
 ## Table of Contents
-- [Buy Subscriptions](#Buy-Subscriptions)
+- [Paid Subscriptions](#Paid-Subscriptions)
 - [Free VPN](#Free-VPN)
 - [Useful Links](#Useful-Links)
 - [Prefered Clients](#Prefered-Clients)
@@ -16,7 +16,7 @@
 - [Convert SSR, SS, VLess, VMess](#Convert-SSR,-SS,-VLess,-VMess)
 
 
-### Buy Subscriptions
+### Paid Subscriptions
 [CLick Here!](https://github.com/ammasood12/nodes/blob/main/PackageDetails.md)
 
 ### Free VPN
