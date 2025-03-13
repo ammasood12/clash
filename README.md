@@ -19,8 +19,8 @@ Andoird [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)
 iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 
 ### One Click Clash Subscription
-| Status | Provider | Subscription 1 |
-| ------ | -------  | -------------- |
+| Status | Provider | Subscriptions |
+| ------ | -------  | ------------- |
 | Good⭐ | [Website](https://github.com/ammasood12/nodes/) | https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml <br/> https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml | 
 > Based on Alvin9999 <br/>
 
