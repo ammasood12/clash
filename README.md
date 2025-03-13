@@ -5,8 +5,8 @@
 > I am just organizing and documenting nodes' performance while residing in China. <br/>
 > All these nodes don't provide stable connections. so you have to tweak
 
-### Buy Subscriptions Details
-[Website](https://github.com/ammasood12/nodes/tree/1894a2643dba3cdeb350a7c34222c81be6912067/Packages)
+### Buy Subscriptions
+[Website](https://github.com/ammasood12/nodes/blob/main/PackageDetails.md)
 
 ### Free VPN
 | Status | Provider | Download |
