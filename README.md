@@ -22,9 +22,9 @@
 ### Free VPN
 | Status | Provider | Details |
 | ------ | -------  | ------------- |
-| Status | [FreeGate](http://us.dongtaiwang.com/loc/download.en.php) | [Download](https://d2.freessr2.xyz/fg800p.zip), [Download](https://d.dtku35.xyz/fg800p.zip) |
-| Status | [UltraSurf](https://www.ultrasurf.us/) | [Download](https://d2.freessr2.xyz/u2132.exe), [Download](https://d.dtku35.xyz/u2132.exe) |
-| Status | [Anyi](https://www.anyi8.com/) | [Website](https://www.sharingdais.com/), [Website](https://www.ruijieguoji.com/) |
+| Status | [FreeGate](http://us.dongtaiwang.com/loc/download.en.php) | [Download](https://d2.freessr2.xyz/fg800p.zip) \| [Download](https://d.dtku35.xyz/fg800p.zip) |
+| Status | [UltraSurf](https://www.ultrasurf.us/) | [Download](https://d2.freessr2.xyz/u2132.exe) \| [Download](https://d.dtku35.xyz/u2132.exe) |
+| Status | [Anyi](https://www.anyi8.com/) | [Website](https://www.sharingdais.com/) \| [Website](https://www.ruijieguoji.com/) |
 | Status | [VpnGate](https://www.vpngate.net/en/) | |
 | Status | [VPNify](https://vpnifyapp.com/) | Download |
 | Status | [QuickFox](https://www.quick-fox.com/en-US) | **get Chinese IP |
@@ -32,15 +32,21 @@
 ### Useful Links
 | Type     | link |
 | ------   | ---- |
-| Speed    | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test), [Fast.com](https://fast.com/), [SpeedTest.net](https://www.speedtest.net/), [SpeedTest.cn](https://www.speedtest.cn/) |
+| Speed    | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test) \| [Fast.com](https://fast.com/) \| [SpeedTest.net](https://www.speedtest.net/) \| [SpeedTest.cn](https://www.speedtest.cn/) |
 | Stream   | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test/streaming) |
-| Check IP | [Astrill](https://www.astrill.com/what-is-my-ip), [WhatIsMyIP](https://www.whatismyip.com/) |
+| Check IP | [Astrill](https://www.astrill.com/what-is-my-ip) \| [WhatIsMyIP](https://www.whatismyip.com/) |
 > General websites usually not work <br/>
 
 ### Prefered Clients
-Windows [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases) <br/>
-Andoird [Clash Meta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/) <br/>
-iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
+| Provider   | Windows | Android | iOS | MacOS | Linux |
+| --------   | ------- | ------- | --- | ----- | ----- |
+| [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [64-bit](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe) \| [ARM](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_arm64-setup.exe) | Android | iOS | [Intel](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64.dmg) \| [Apple Silicon M](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_aarch64.dmg)| [DEB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_amd64.deb) \| [RPM](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge-2.1.2-1.x86_64.rpm)|
+| [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)  | Windows | [Andoid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-universal-release.apk) | iOS | MacOS | Linux |
+| [SingBox](https://github.com/SagerNet/sing-box/releases/) | [32-bit](https://github.com/SagerNet/sing-box/releases/download/v1.11.5/sing-box-1.11.5-windows-386.zip) \| [64-bit](https://github.com/SagerNet/sing-box/releases/download/v1.11.5/sing-box-1.11.5-windows-amd64.zip) \| [ARM](https://github.com/SagerNet/sing-box/releases/download/v1.11.5/sing-box-1.11.5-windows-arm64.zip) | [Android](https://sing-box.sagernet.org/clients/android/) | AppStore | MacOS | Linux |
+
+Windows  <br/>
+Andoird [Download]() <br/>
+iOS [Download]()
 
 ### One Click Clash Subscription (Free)
 | Status | Provider | Subscriptions |
@@ -87,7 +93,7 @@ iOS [SingBox](https://github.com/SagerNet/sing-box/releases/)
 | Good   | [Datiya](https://free.datiya.com/) | https://free.datiya.com/uploads/20250302-clash.yaml |
 | Good   | [Nodefree.org](https://nodefree.org/) | https://nodefree.githubrowcontent.com/2025/02/20250227.yaml |
 |N/A     | [FreeClashNode](https://www.freeclashnode.com/free-node/) | https://node.freeclashnode.com/uploads/2025/03/0-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/1-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/2-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/3-20250307.yaml <br/> https://node.freeclashnode.com/uploads/2025/03/4-20250306.yaml |
-| Status | [v2rayse](https://v2rayse.com/) | [Live Nodes](https://v2rayse.com/live-node),  [Free Nodes](https://v2rayse.com/free-node) |
+| Status | [v2rayse](https://v2rayse.com/) | [Live Nodes](https://v2rayse.com/live-node) \| [Free Nodes](https://v2rayse.com/free-node) |
 
 > [!TIP]
 > **Update Proxy:** visit website or change url to current date to update <br/>
