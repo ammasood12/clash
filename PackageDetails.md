@@ -1,19 +1,19 @@
 # Buy Subscriptions
 `Updated at 13-March-2025`
-| Status | Provider       | Website | Other Links | Packages |
-| ------ | -------------- | ------- | ----------- | -------- |
-| Status | Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) | | |
-| Cheap  | OneYuanAirport | [Website](https://一元机场.com/) | .com, .ink, .art, .net, .click, .xyz, .club | [Packages](#OneYuanAirport) |
-| Status | PapayaCloud    | [Website](https://muguacloud.top/) | .top, .pw, .art | [Packages](#PapayaCloud) |
-| Status | PapayaCloud2   | [Website](https://muguacloud.win/), [QuickLink](https://4399.bid/) | .win, .app | [Packages](#PapayaCloud2) |
-| Status | SSone          | [Website](https://ssonegames.xn--xhq8sm16c5ls.com/dashboard) | [website](https://hello-ssone.com/), [website](https://hello36d.com/) | [Packages](#SSone) |
-| Status | KeLeYun        | [Website](https://q0av6w.klwiuehge.top/#/plan) | [Website](https://可乐云.com/), [Website](https://q0av6w.klwiuehge.top/), [Website](https://kly2026.com/),  | [Packages](#KeLeYun) |
-| Status | ColaCloud      | [Website](https://colacloud.online/) | [Website](https://colacloud.info/index.html), [Website](https://colacloudnet.com/) | [Packages](#ColaCloud) |
-| Status | Riolu          | [Website](https://1o.riolu.sbs/) | Other Links | [Packages](#Riolu) |
-| Status | VPNjs          | [Website](https://user.jsqcn.net/) | Other Links | [Packages](#VPNjs) |
-| Status | CokeCloud      | [Website](https://cokecloud.net/) | Other Links | [Packages](#CokeCloud) |
-| Status | DaXun          | [Website](https://daxun.fun/) | Other Links | [Packages](#DaXun) |
-| Status | LCA            | [Website](https://lca.lol/) | Other Links | [Packages](#LCA) |
+| Status | Provider       | Website | OtherLinks | Packages | Notes |
+| ------ | -------------- | ------- | ---------- | -------- | ----- |
+| Status | Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) |  | |
+| Cheap  | OneYuanAirport | [Website](https://一元机场.com/) | .com, .ink, .art, .net, .click, .xyz, .club | [Packages](#OneYuanAirport) | not work >> whatsapp calling, chatgpt |
+| Status | PapayaCloud    | [Website](https://muguacloud.top/) | .top, .pw, .art | [Packages](#PapayaCloud) | Notes |
+| Status | PapayaCloud2   | [Website](https://muguacloud.win/), [QuickLink](https://4399.bid/) | .win, .app | [Packages](#PapayaCloud2) | Notes |
+| Status | SSone          | [Website](https://ssonegames.xn--xhq8sm16c5ls.com/dashboard) | [website](https://hello-ssone.com/), [website](https://hello36d.com/) | [Packages](#SSone) | Notes |
+| Status | KeLeYun        | [Website](https://q0av6w.klwiuehge.top/#/plan) | [Website](https://可乐云.com/), [Website](https://q0av6w.klwiuehge.top/), [Website](https://kly2026.com/),  | [Packages](#KeLeYun) | Notes |
+| Status | ColaCloud      | [Website](https://colacloud.online/) | [Website](https://colacloud.info/index.html), [Website](https://colacloudnet.com/) | [Packages](#ColaCloud) | Notes |
+| Status | Riolu          | [Website](https://1o.riolu.sbs/) | Other Links | [Packages](#Riolu) | Notes |
+| Status | VPNjs          | [Website](https://user.jsqcn.net/) | Other Links | [Packages](#VPNjs) | Notes |
+| Status | CokeCloud      | [Website](https://cokecloud.net/) | Other Links | [Packages](#CokeCloud) | Notes |
+| Status | DaXun          | [Website](https://daxun.fun/) | Other Links | [Packages](#DaXun) | Notes |
+| Status | LCA            | [Website](https://lca.lol/) | Other Links | [Packages](#LCA) | Notes |
 > [!TIP]
 > use other links to access in China <br/>
 
