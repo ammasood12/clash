@@ -15,7 +15,7 @@
 | Status | CokeCloud      | [Website](https://cokecloud.net/) | OtherLinks | [Packages](#CokeCloud) | Notes |
 | Status | DaXun          | [Website](https://daxun.fun/) | OtherLinks | [Packages](#DaXun) | Notes |
 | Status | LCA            | [Website](https://lca.lol/) | OtherLinks | [Packages](#LCA) | Notes |
-| Status | Antlink        | [Website](https://antlink.cc/#/register?code=ve5wxSUB) | OtherLinks | [Packages](#Antlink) | Notes |
+| Status | Antlink        | [Website](https://antlink.cc/#/register?code=ve5wxSUB) | .cyou \| .icu \| .xyz  | [Packages](#Antlink) | Notes |
 > [!TIP]
 > use other links to access in China <br/>
 
