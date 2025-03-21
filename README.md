@@ -44,7 +44,8 @@
 | [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)  | Windows | [Andoid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-universal-release.apk) | iOS | MacOS | Linux |
 | [SingBox](https://github.com/SagerNet/sing-box/releases/) | Windows | [Android](https://sing-box.sagernet.org/clients/android/) | [iOS](https://apps.apple.com/us/app/sing-box-vt/id6673731168) | [MacOS](https://sing-box.sagernet.org/clients/apple/) | Linux |
 | v2Box   | Windows | Android | [iOS](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) | MacOS | Linux |
-| Shadowrocket  | Windows | Android | [iOS](https://apps.apple.com/us/app/shadowrocket/id932747118) | MacOS | Linux |
+| Shadowrocket  | Windows | Android | [iOS](https://apps.apple.com/us/app/shadowrocket/id932747118) Paid | MacOS | Linux |
+| [Hiddify](https://github.com/hiddify/hiddify-app)   | Windows | Android | iOS | MacOS | Linux |
 > iOS apps need to be purchased and not working with Clash Subscription links<br/>
 
 ### One Click Clash Subscription (Free)
