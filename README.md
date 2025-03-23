@@ -1,5 +1,5 @@
 # Free Clash Nodes
-`Updated at 13-March-2025`
+`Updated at 23-March-2025`
 
 > [!NOTE]
 > I am just organizing and documenting nodes' performance while residing in China. <br/>
@@ -47,6 +47,8 @@
 | Shadowrocket  | Windows | Android | [iOS](https://apps.apple.com/us/app/shadowrocket/id932747118) Paid | MacOS | Linux |
 | [Hiddify](https://github.com/hiddify/hiddify-app)   | Windows | Android | iOS | MacOS | Linux |
 > iOS apps need to be purchased and not working with Clash Subscription links<br/>
+> Hiddify applicationo have the ability to whitelist application for not being used by the VPN
+
 
 ### One Click Clash Subscription (Free)
 | Status | Provider | Subscriptions |
@@ -83,9 +85,12 @@
 | N/A | [PeaSoft](https://github.com/peasoft/NoMoreWalls) | https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml |
 
 > [!TIP]
+> **Clash variants**
 > **Update Proxy:** select Profile > right click > Update <br/>
 > **Stable Connection:** Proxies > Global > refresh 🛜 > sort **三** > select node with lesser number  <br/>
 > If the domain name is not accessible `raw.githubusercontent.com`, the second address `cdn.jsdelivr.net` can be used, but there will be a 12-hour delay in content updates.
+> **Hiddify**
+> free18 link not working
 
 ### Website Subscriptions (Free)
 | Status | Provider | Subscription |
