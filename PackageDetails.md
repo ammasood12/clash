@@ -44,4 +44,4 @@
 ### LCA
 ![LCA](https://github.com/ammasood12/nodes/blob/main/Packages/lca.png)
 ### Antlink
-![LCA](https://github.com/ammasood12/nodes/blob/main/Packages/Antlink.png)
+![Antlink](https://github.com/ammasood12/nodes/blob/main/Packages/antlink.png)
