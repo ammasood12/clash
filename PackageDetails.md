@@ -18,7 +18,7 @@
 | Status | Antlink        | [Website](https://antlink.cc/#/register?code=ve5wxSUB) | .cyou \| .icu \| .xyz , https://x-go.gitbook.io/ant  | [Packages](#Antlink) | No | Notes |
 | Status | xinGoogle      | [Website](https://xingoogle1.cc/auth/login) | OtherLinks | [Packages](#xinGoogle) | 2Gb, 7 Day | Notes |
 | Status | QiuLinYun      | [Website](https://www.qiulinyun.com) | .online | [Packages](#qiulinyun) | Free | Notes |
-| Cheap  | Joyo95         | [Website](https://joyo95.cc/) | [link](http://topman8848.com), [Link](https://tooop.cc/) | [Packages](#joyo95) | 1Gb, 7 Day | 5.9¥ for 100Gb, 1 device only |
+| Cheap  | Topman8848     | [Website](https://joyo95.cc/) | [link](http://topman8848.com), [Link](https://tooop.cc/) | [Packages](#Topman8848) | 1Gb, 7 Day | 5.9¥ for 100Gb, 1 device only |
 | Status | eeVPN          | [Website](https://www.eevpn66.com/) | OtherLinks | [Packages](#eeVPN) | No | 6.99¥ for 100Gb, 10.99¥ for 200Gb, |
 | Status | BabyCloud      | [Website](https://bbyvpn.com) | bby001.com, bby002.com, bby003.com, bby004.com, bby005.com, v3ssy.xyz | [Packages](#BabyCloud) | 10Gb, 1 Day | Notes |
 > [!TIP]
@@ -54,8 +54,8 @@
 ![xinGoogle](https://github.com/ammasood12/nodes/blob/main/Packages/xinGoogle.png)
 ### QiuLinYun
 ![QiuLinYun](https://github.com/ammasood12/nodes/blob/main/Packages/qiulinyun.png)
-### Joyo95
-![Joyo95](https://github.com/ammasood12/nodes/blob/main/Packages/joyo95.png)
+### Topman8848
+![Topman8848](https://github.com/ammasood12/nodes/blob/main/Packages/Topman8848.png)
 ### eeVPN
 ![eeVPN](https://github.com/ammasood12/nodes/blob/main/Packages/eevpn.png)
 ### BabyCloud
