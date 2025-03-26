@@ -17,7 +17,7 @@
 | Status | LCA            | [Website](https://lca.lol/) | OtherLinks | [Packages](#LCA) | Notes |
 | Status | Antlink        | [Website](https://antlink.cc/#/register?code=ve5wxSUB) | .cyou \| .icu \| .xyz  | [Packages](#Antlink) | Notes |
 | Status | xinGoogle        | [Website](https://xingoogle1.cc/auth/login) | OtherLinks | [Packages](#xinGoogle) | Notes |
-| Status | QiuLinYun        | [Website](https://www.qiulinyun.com) | .online | [Packages](#xinGoogle) | Notes |
+| Status | QiuLinYun        | [Website](https://www.qiulinyun.com) | .online | [Packages](#qiulinyun) | Notes |
 > [!TIP]
 > use other links to access in China <br/>
 
