@@ -20,6 +20,7 @@
 | Status | QiuLinYun        | [Website](https://www.qiulinyun.com) | .online | [Packages](#qiulinyun) | Notes |
 | Cheap | Joyo95        | [Website](https://joyo95.cc/) | [link](http://topman8848.com), [Link](https://tooop.cc/) | [Packages](#joyo95) | 5.9¥ for 100Gb, 1 device only |
 | Status | eeVPN        | [Website](https://www.eevpn66.com/) | OtherLinks | [Packages](#eeVPN) | 6.99¥ for 100Gb, 10.99¥ for 200Gb, |
+| Status | BabyCloud        | [Website](https://bbyvpn.com) | bby001.com, bby002.com, bby003.com, bby004.com, bby005.com, v3ssy.xyz | [Packages](#BabyCloud) | Notes |
 > [!TIP]
 > use other links to access in China <br/>
 
@@ -57,3 +58,5 @@
 ![Joyo95](https://github.com/ammasood12/nodes/blob/main/Packages/joyo95.png)
 ### eeVPN
 ![eeVPN](https://github.com/ammasood12/nodes/blob/main/Packages/eeVPN.png)
+### BabyCloud
+![BabyCloud](https://github.com/ammasood12/nodes/blob/main/Packages/babycloud.png)
