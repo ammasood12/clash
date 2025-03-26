@@ -7,20 +7,20 @@
 | Cheap  | OneYuanAirport | [Website](https://一元机场.com/) | .com \| .ink \| .art \| .net \| .click \| .xyz \| .club | [Packages](#OneYuanAirport) | No | 7¥ for 500Gb, not work >> whatsapp calling, chatgpt |
 | Cheap  | PapayaCloud    | [Website](https://muguacloud.top/) | .top \| .pw \| .art | [Packages](#PapayaCloud) | 1¥ | 6¥ for 500Gb |
 | Status | PapayaCloud2   | [Website](https://muguacloud.win/), [QuickLink](https://4399.bid/) | .win \| .app | [Packages](#PapayaCloud2) | Trial | Notes |
-| Status | SSone          | [Website](https://ssonegames.xn--xhq8sm16c5ls.com/dashboard) | [website](https://hello-ssone.com/), [website](https://hello36d.com/) | [Packages](#SSone) | Trial | Notes |
-| Status | KeLeYun        | [Website](https://q0av6w.klwiuehge.top/#/plan) | [Website](https://可乐云.com/), [Website](https://q0av6w.klwiuehge.top/), [Website](https://kly2026.com/),  | [Packages](#KeLeYun) | Trial | Notes |
-| Status | ColaCloud      | [Website](https://colacloud.online/) | [Website](https://colacloud.info/index.html), [Website](https://colacloudnet.com/) | [Packages](#ColaCloud) | Trial | Notes |
-| Status | Riolu          | [Website](https://1o.riolu.sbs/) | OtherLinks | [Packages](#Riolu) | Trial | Notes |
-| Status | VPNjs          | [Website](https://user.jsqcn.net/) | OtherLinks | [Packages](#VPNjs) | Trial | Notes |
-| Status | CokeCloud      | [Website](https://cokecloud.net/) | OtherLinks | [Packages](#CokeCloud) | Trial | Notes |
-| Status | DaXun          | [Website](https://daxun.fun/) | OtherLinks | [Packages](#DaXun) | Trial | Notes |
-| Status | LCA            | [Website](https://lca.lol/) | OtherLinks | [Packages](#LCA) | Trial | Notes |
-| Status | Antlink        | [Website](https://antlink.cc/#/register?code=ve5wxSUB) | .cyou \| .icu \| .xyz  | [Packages](#Antlink) | Trial | Notes |
-| Status | xinGoogle        | [Website](https://xingoogle1.cc/auth/login) | OtherLinks | [Packages](#xinGoogle) | Trial | Notes |
-| Status | QiuLinYun        | [Website](https://www.qiulinyun.com) | .online | [Packages](#qiulinyun) | Trial | Notes |
-| Cheap | Joyo95        | [Website](https://joyo95.cc/) | [link](http://topman8848.com), [Link](https://tooop.cc/) | [Packages](#joyo95) | Trial | 5.9¥ for 100Gb, 1 device only |
-| Status | eeVPN        | [Website](https://www.eevpn66.com/) | OtherLinks | [Packages](#eeVPN) | Trial | 6.99¥ for 100Gb, 10.99¥ for 200Gb, |
-| Status | BabyCloud        | [Website](https://bbyvpn.com) | bby001.com, bby002.com, bby003.com, bby004.com, bby005.com, v3ssy.xyz | [Packages](#BabyCloud) | Trial | Notes |
+| Status | SSone          | [Website](https://ssonegames.xn--xhq8sm16c5ls.com/dashboard) | [website](https://hello-ssone.com/), [website](https://hello36d.com/) | [Packages](#SSone) | 1Gb, 5Hrs | Notes |
+| Status | KeLeYun        | [Website](https://q0av6w.klwiuehge.top/#/plan) | [Website](https://可乐云.com/), [Website](https://q0av6w.klwiuehge.top/), [Website](https://kly2026.com/),  | [Packages](#KeLeYun) | No | Notes |
+| Status | ColaCloud      | [Website](https://colacloud.online/) | [Website](https://colacloud.info/index.html), [Website](https://colacloudnet.com/) | [Packages](#ColaCloud) | Free | Notes |
+| Status | Riolu          | [Website](https://1o.riolu.sbs/) | OtherLinks | [Packages](#Riolu) | Free | Notes |
+| Status | VPNjs          | [Website](https://user.jsqcn.net/) | OtherLinks | [Packages](#VPNjs) | Free | Notes |
+| Status | CokeCloud      | [Website](https://cokecloud.net/) | OtherLinks | [Packages](#CokeCloud) | Free | Notes |
+| Status | DaXun          | [Website](https://daxun.fun/) | OtherLinks | [Packages](#DaXun) | Free | Notes |
+| Status | LCA            | [Website](https://lca.lol/) | OtherLinks | [Packages](#LCA) | 2Gb | Notes |
+| Status | Antlink        | [Website](https://antlink.cc/#/register?code=ve5wxSUB) | .cyou \| .icu \| .xyz , https://x-go.gitbook.io/ant  | [Packages](#Antlink) | No | Notes |
+| Status | xinGoogle      | [Website](https://xingoogle1.cc/auth/login) | OtherLinks | [Packages](#xinGoogle) | 2Gb, 7 Day | Notes |
+| Status | QiuLinYun      | [Website](https://www.qiulinyun.com) | .online | [Packages](#qiulinyun) | Free | Notes |
+| Cheap  | Joyo95         | [Website](https://joyo95.cc/) | [link](http://topman8848.com), [Link](https://tooop.cc/) | [Packages](#joyo95) | 1Gb, 7 Day | 5.9¥ for 100Gb, 1 device only |
+| Status | eeVPN          | [Website](https://www.eevpn66.com/) | OtherLinks | [Packages](#eeVPN) | No | 6.99¥ for 100Gb, 10.99¥ for 200Gb, |
+| Status | BabyCloud      | [Website](https://bbyvpn.com) | bby001.com, bby002.com, bby003.com, bby004.com, bby005.com, v3ssy.xyz | [Packages](#BabyCloud) | 10Gb, 1 Day | Notes |
 > [!TIP]
 > use other links to access in China <br/>
 
