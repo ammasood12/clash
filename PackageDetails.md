@@ -48,3 +48,9 @@
 ![LCA](https://github.com/ammasood12/nodes/blob/main/Packages/lca.png)
 ### Antlink
 ![Antlink](https://github.com/ammasood12/nodes/blob/main/Packages/antlink.png)
+### xinGoogle
+![xinGoogle](https://github.com/ammasood12/nodes/blob/main/Packages/xinGoogle.png)
+### QiuLinYun
+![QiuLinYun](https://github.com/ammasood12/nodes/blob/main/Packages/qiulinyun.png)
+### Joyo95
+![Joyo95](https://github.com/ammasood12/nodes/blob/main/Packages/joyo95.png)
