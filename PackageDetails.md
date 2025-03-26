@@ -4,8 +4,8 @@
 | ------ | -------------- | ------- | ---------- | -------- | ----- | ----- |
 | Status | Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) | [Website](https://github.com/lynkco01/jichangtuijian) | Package | Trial | Notes |
 | Status | Services Links | [Website](https://clashxiazai.com/clash-nodes-providers/) | OtherLinks | Package | Trial | Notes |
-| Cheap  | OneYuanAirport | [Website](https://一元机场.com/) | .com \| .ink \| .art \| .net \| .click \| .xyz \| .club | [Packages](#OneYuanAirport) | No | 7¥ for 500Gb, not work >> whatsapp calling, chatgpt |
-| Cheap  | PapayaCloud    | [Website](https://muguacloud.top/) | .top \| .pw \| .art | [Packages](#PapayaCloud) | 1¥ | 6¥ for 500Gb |
+| $${\color{green}Cheap}$$  | OneYuanAirport | [Website](https://一元机场.com/) | .com \| .ink \| .art \| .net \| .click \| .xyz \| .club | [Packages](#OneYuanAirport) | No | 7¥ for 500Gb, not work >> whatsapp calling, chatgpt |
+| $${\color{green}Cheap}$$  | PapayaCloud    | [Website](https://muguacloud.top/) | .top \| .pw \| .art | [Packages](#PapayaCloud) | 1¥ | 6¥ for 500Gb |
 | Status | PapayaCloud2   | [Website](https://muguacloud.win/), [QuickLink](https://4399.bid/) | .win \| .app | [Packages](#PapayaCloud2) | Trial | Notes |
 | Status | SSone          | [Website](https://ssonegames.xn--xhq8sm16c5ls.com/dashboard) | [website](https://hello-ssone.com/), [website](https://hello36d.com/) | [Packages](#SSone) | 1Gb, 5Hrs | Notes |
 | Status | KeLeYun        | [Website](https://q0av6w.klwiuehge.top/#/plan) | [Website](https://可乐云.com/), [Website](https://q0av6w.klwiuehge.top/), [Website](https://kly2026.com/),  | [Packages](#KeLeYun) | No | Notes |
@@ -21,6 +21,7 @@
 | Cheap  | Topman8848     | [Website](https://joyo95.cc/) | [link](http://topman8848.com), [Link](https://tooop.cc/) | [Packages](#Topman8848) | 1Gb, 7 Day | 5.9¥ for 100Gb, 1 device only |
 | Status | eeVPN          | [Website](https://www.eevpn66.com/) | OtherLinks | [Packages](#eeVPN) | No | 6.99¥ for 100Gb, 10.99¥ for 200Gb, |
 | Status | BabyCloud      | [Website](https://bbyvpn.com) | bby001.com, bby002.com, bby003.com, bby004.com, bby005.com, v3ssy.xyz | [Packages](#BabyCloud) | 10Gb, 1 Day | Notes |
+| Expensive | Nexc        | [Website](https://nexc.cc/) | OtherLinks | [Packages](#nexc) | 2gb, 1day | Notes |
 > [!TIP]
 > use other links to access in China <br/>
 
@@ -60,3 +61,5 @@
 ![eeVPN](https://github.com/ammasood12/nodes/blob/main/Packages/eevpn.png)
 ### BabyCloud
 ![BabyCloud](https://github.com/ammasood12/nodes/blob/main/Packages/babycloud.png)
+### Nexc
+![Nexc](https://github.com/ammasood12/nodes/blob/main/Packages/nexc.png)
