@@ -18,7 +18,7 @@
 | Status | Antlink        | [Website](https://antlink.cc/#/register?code=ve5wxSUB) | .cyou \| .icu \| .xyz  | [Packages](#Antlink) | Notes |
 | Status | xinGoogle        | [Website](https://xingoogle1.cc/auth/login) | OtherLinks | [Packages](#xinGoogle) | Notes |
 | Status | QiuLinYun        | [Website](https://www.qiulinyun.com) | .online | [Packages](#qiulinyun) | Notes |
-| Cheap | Joyo95        | [Website](https://joyo95.cc/) | .online | [Packages](#joyo95) | 5.9¥ for 100Gb |
+| Cheap | Joyo95        | [Website](https://joyo95.cc/) | [link](http://topman8848.com), [Link](https://tooop.cc/) | [Packages](#joyo95) | 5.9¥ for 100Gb |
 > [!TIP]
 > use other links to access in China <br/>
 
