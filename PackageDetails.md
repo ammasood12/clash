@@ -57,6 +57,6 @@
 ### Joyo95
 ![Joyo95](https://github.com/ammasood12/nodes/blob/main/Packages/joyo95.png)
 ### eeVPN
-![eeVPN](https://github.com/ammasood12/nodes/blob/main/Packages/eeVPN.png)
+![eeVPN](https://github.com/ammasood12/nodes/blob/main/Packages/eevpn.png)
 ### BabyCloud
 ![BabyCloud](https://github.com/ammasood12/nodes/blob/main/Packages/babycloud.png)
