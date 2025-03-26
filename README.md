@@ -1,9 +1,13 @@
 # Free Clash Nodes
-`Updated at 23-March-2025`
+`Updated at 27-March-2025`
 
-> [!NOTE]
-> I am just organizing and documenting nodes' performance while residing in China. <br/>
-> All these nodes don't provide stable connections. so you have to tweak
+> ## Disclaimer
+> * This project is meant for personal and educational uses only.
+> * Please follow relevant laws and regulations when using this project.
+> * Project owner is not responsible or liable in any manner for the use of the content. <br/>
+> **NOTE** <br/>
+> This purpose of this project is to document and organize clash based node while residing in China. <br/>
+> These nodes don't provide 100% stable connections. Hence, tweaking required.
 
 ## Table of Contents
 - [Paid Subscriptions](#Paid-Subscriptions)
@@ -129,8 +133,4 @@
 Personal Tips: 
 1. Use [v2rayse](https://v2rayse.com/node-convert) for making a template file filters including how many proxies are required in total by using same address multiple times. (vmess links don't work properly)
 2. Use [SSHkit](https://sshkit.com/subconverter/) for making plain YAML file and add all other proxies in that. simple direct connections with load balance.
-
-
-
-
 
