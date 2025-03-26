@@ -1,5 +1,5 @@
 # Buy Subscriptions
-`Updated at 13-March-2025`
+`Updated at 26-March-2025`
 | Status | Provider       | Website | OtherLinks | Packages | Notes |
 | ------ | -------------- | ------- | ---------- | -------- | ----- |
 | Status | Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) | [Website](https://github.com/lynkco01/jichangtuijian) | |
@@ -19,6 +19,7 @@
 | Status | xinGoogle        | [Website](https://xingoogle1.cc/auth/login) | OtherLinks | [Packages](#xinGoogle) | Notes |
 | Status | QiuLinYun        | [Website](https://www.qiulinyun.com) | .online | [Packages](#qiulinyun) | Notes |
 | Cheap | Joyo95        | [Website](https://joyo95.cc/) | [link](http://topman8848.com), [Link](https://tooop.cc/) | [Packages](#joyo95) | 5.9¥ for 100Gb, 1 device only |
+| Status | eeVPN        | [Website](https://www.eevpn66.com/) | OtherLinks | [Packages](#eeVPN) | 6.99¥ for 100Gb, 10.99¥ for 200Gb, |
 > [!TIP]
 > use other links to access in China <br/>
 
@@ -54,3 +55,5 @@
 ![QiuLinYun](https://github.com/ammasood12/nodes/blob/main/Packages/qiulinyun.png)
 ### Joyo95
 ![Joyo95](https://github.com/ammasood12/nodes/blob/main/Packages/joyo95.png)
+### eeVPN
+![eeVPN](https://github.com/ammasood12/nodes/blob/main/Packages/eeVPN.png)
