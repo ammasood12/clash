@@ -1,9 +1,15 @@
 # Buy Subscriptions
 `Updated at 26-March-2025`
+
+### Links to find proxy providers
+| Type           | Website | OtherLinks |
+| -------------- | ------- | ---------- |
+| Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) | [Website](https://github.com/lynkco01/jichangtuijian) |
+| Services Links | [Website](https://clashxiazai.com/clash-nodes-providers/) | OtherLinks |
+| Services Links | [Website](https://guatizi.com/) | OtherLinks |
+
 | Status | Provider       | Website | OtherLinks | Packages | Trial | Notes |
 | ------ | -------------- | ------- | ---------- | -------- | ----- | ----- |
-| Status | Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) | [Website](https://github.com/lynkco01/jichangtuijian) | Package | Trial | Notes |
-| Status | Services Links | [Website](https://clashxiazai.com/clash-nodes-providers/) | OtherLinks | Package | Trial | Notes |
 | $${\color{green}Cheap}$$  | OneYuanAirport | [Website](https://一元机场.com/) | .com \| .ink \| .art \| .net \| .click \| .xyz \| .club | [Packages](#OneYuanAirport) | No | 7¥ for 500Gb, not work >> whatsapp calling, chatgpt |
 | $${\color{green}Cheap}$$  | PapayaCloud    | [Website](https://muguacloud.top/) | .top \| .pw \| .art | [Packages](#PapayaCloud) | 1¥ | 6¥ for 500Gb |
 | $${\color{green}Cheap}$$ | YiFenJiChang | [Website](https://login.yfjc.xyz/#/register?code=7lCbWk7w) | OtherLinks | [Packages](#YiFenJiChang) | No | 2¥ for 100Gb |
