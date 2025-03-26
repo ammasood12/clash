@@ -4,8 +4,8 @@
 | ------ | -------------- | ------- | ---------- | -------- | ----- |
 | Status | Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) | [Website](https://github.com/lynkco01/jichangtuijian) | |
 | Status | Services Links | [Website](https://clashxiazai.com/clash-nodes-providers/) |  | |
-| Cheap  | OneYuanAirport | [Website](https://一元机场.com/) | .com \| .ink \| .art \| .net \| .click \| .xyz \| .club | [Packages](#OneYuanAirport) | not work >> whatsapp calling, chatgpt |
-| Cheap  | PapayaCloud    | [Website](https://muguacloud.top/) | .top \| .pw \| .art | [Packages](#PapayaCloud) | Notes |
+| Cheap  | OneYuanAirport | [Website](https://一元机场.com/) | .com \| .ink \| .art \| .net \| .click \| .xyz \| .club | [Packages](#OneYuanAirport) | 7¥ for 500Gb, not work >> whatsapp calling, chatgpt |
+| Cheap  | PapayaCloud    | [Website](https://muguacloud.top/) | .top \| .pw \| .art | [Packages](#PapayaCloud) | 6¥ for 500Gb |
 | Status | PapayaCloud2   | [Website](https://muguacloud.win/), [QuickLink](https://4399.bid/) | .win \| .app | [Packages](#PapayaCloud2) | Notes |
 | Status | SSone          | [Website](https://ssonegames.xn--xhq8sm16c5ls.com/dashboard) | [website](https://hello-ssone.com/), [website](https://hello36d.com/) | [Packages](#SSone) | Notes |
 | Status | KeLeYun        | [Website](https://q0av6w.klwiuehge.top/#/plan) | [Website](https://可乐云.com/), [Website](https://q0av6w.klwiuehge.top/), [Website](https://kly2026.com/),  | [Packages](#KeLeYun) | Notes |
@@ -18,6 +18,7 @@
 | Status | Antlink        | [Website](https://antlink.cc/#/register?code=ve5wxSUB) | .cyou \| .icu \| .xyz  | [Packages](#Antlink) | Notes |
 | Status | xinGoogle        | [Website](https://xingoogle1.cc/auth/login) | OtherLinks | [Packages](#xinGoogle) | Notes |
 | Status | QiuLinYun        | [Website](https://www.qiulinyun.com) | .online | [Packages](#qiulinyun) | Notes |
+| Cheap | Joyo95        | [Website](https://joyo95.cc/) | .online | [Packages](#joyo95) | 5.9¥ for 100Gb |
 > [!TIP]
 > use other links to access in China <br/>
 
