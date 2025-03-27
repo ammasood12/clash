@@ -42,16 +42,18 @@
 | Check IP | [Astrill](https://www.astrill.com/what-is-my-ip) \| [WhatIsMyIP](https://www.whatismyip.com/) \| [Ipinfo.io](https://ipinfo.io/what-is-my-ip)
 > General websites usually not work <br/>
 
-### Prefered Clients
-| Provider   | Windows | Android | iOS | MacOS | Linux |
-| --------   | ------- | ------- | --- | ----- | ----- |
-| [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [64-bit](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64-setup.exe) \| [ARM](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_arm64-setup.exe) | Android | iOS | [Intel](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_x64.dmg) \| [Apple](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_aarch64.dmg)| [DEB](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge_2.1.2_amd64.deb) \| [RPM](https://github.com/clash-verge-rev/clash-verge-rev/releases/download/v2.1.2/Clash.Verge-2.1.2-1.x86_64.rpm)|
-| [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)  | Windows | [Andoid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.11.7/cmfa-2.11.7-meta-universal-release.apk) | iOS | MacOS | Linux |
-| [SingBox](https://github.com/SagerNet/sing-box/releases/) | Windows | [Android](https://sing-box.sagernet.org/clients/android/) | [iOS](https://apps.apple.com/us/app/sing-box-vt/id6673731168) | [MacOS](https://sing-box.sagernet.org/clients/apple/) | Linux |
-| v2Box   | Windows | Android | [iOS](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) | MacOS | Linux |
-| Shadowrocket  | Windows | Android | [iOS](https://apps.apple.com/us/app/shadowrocket/id932747118) Paid | MacOS | Linux |
-| [Hiddify](https://github.com/hiddify/hiddify-app)   | Windows | Android | iOS | MacOS | Linux |
-> iOS apps need to be purchased and not working with Clash Subscription links<br/>
+### Clients
+| Provider   | Windows | Android | iOS | MacOS | Linux | Notes |
+| --------   | ------- | ------- | --- | ----- | ----- | ----- |
+| [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases) |  Windows | Android | iOS | MacOS | Linux | Notes |
+| [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)  | Windows | Android | iOS | MacOS | Linux | Notes |
+| [SingBox](https://github.com/SagerNet/sing-box/releases/) \| [Official](https://sing-box.sagernet.org/clients/) | Windows | Android | iOS | MacOS | Linux | Notes |
+| v2Box   | Windows | Android | [iOS](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) | MacOS | Linux | Notes |
+| Shadowrocket  | Windows | Android | [iOS](https://apps.apple.com/us/app/shadowrocket/id932747118) | MacOS | Linux | iOS paid |
+| [Hiddify](https://github.com/hiddify/hiddify-app)   | Windows | Android | iOS | MacOS | Linux | Notes |
+| [Karing](https://github.com/KaringX/karing)   | Windows | Android | iOS | MacOS | Linux | use multiple subscriptions together |
+| [FLclash](https://github.com/chen08209/FlClash)   | Windows | Android | N/A | MacOS | Linux | Notes |
+> iOS apps usually need to be purchased and not working with Clash Subscription links<br/>
 > Hiddify applicationo have the ability to whitelist application for not being used by the VPN
 
 
