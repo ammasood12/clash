@@ -38,7 +38,7 @@
 | ------   | ---- |
 | Speed    | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test) \| [Fast.com](https://fast.com/) \| [SpeedTest.net](https://www.speedtest.net/) \| [SpeedTest.cn](https://www.speedtest.cn/) |
 | Stream   | [HighSpeedInternet](https://www.highspeedinternet.com/tools/speed-test/streaming) |
-| Check IP | [Astrill](https://www.astrill.com/what-is-my-ip) \| [WhatIsMyIP](https://www.whatismyip.com/) | [Ipinfo.io](https://ipinfo.io/what-is-my-ip)
+| Check IP | [Astrill](https://www.astrill.com/what-is-my-ip) \| [WhatIsMyIP](https://www.whatismyip.com/) \| [Ipinfo.io](https://ipinfo.io/what-is-my-ip)
 > General websites usually not work <br/>
 
 ### Prefered Clients
