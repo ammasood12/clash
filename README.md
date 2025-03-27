@@ -1,4 +1,4 @@
-# Free Clash Nodes
+# Free Clash Subscriptions
 `Updated at 27-March-2025`
 
 > ## Disclaimer
