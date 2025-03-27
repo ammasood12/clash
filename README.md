@@ -52,7 +52,7 @@
 | Shadowrocket  | Windows | Android | [iOS](https://apps.apple.com/us/app/shadowrocket/id932747118) | MacOS | Linux | iOS paid |
 | [Hiddify](https://github.com/hiddify/hiddify-app)   | Windows | Android | iOS | MacOS | Linux | Notes |
 | [Karing](https://github.com/KaringX/karing)   | Windows | Android | iOS | MacOS | Linux | use multiple subscriptions together |
-| [FLclash](https://github.com/chen08209/FlClash)   | Windows | Android | N/A | MacOS | Linux | Notes |
+| [FLclash](https://github.com/chen08209/FlClash)   | Windows | Android | N/A | MacOS | Linux | Backup/Restore |
 > iOS apps usually need to be purchased and not working with Clash Subscription links<br/>
 > Hiddify applicationo have the ability to whitelist application for not being used by the VPN
 
