@@ -21,7 +21,7 @@
 
 
 ### Paid Subscriptions
-[CLick Here!](https://github.com/ammasood12/nodes/blob/main/PackageDetails.md)
+[CLick Here!](https://github.com/ammasood12/clash/blob/main/PackageDetails.md)
 
 ### Free VPN
 | Status | Provider | Details |
@@ -60,7 +60,7 @@
 ### One Click Clash Subscription (Free)
 | Status | Provider | Subscriptions |
 | ------ | -------  | ------------- |
-| Good⭐ | [Website](https://github.com/ammasood12/nodes/) | https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Load_Balance.yaml <br/> https://raw.githubusercontent.com/ammasood12/nodes/refs/heads/main/clash/Alvin9999.yaml | 
+| Good⭐ | [Website](https://github.com/ammasood12/nodes/) | https://raw.githubusercontent.com/ammasood12/clash/refs/heads/main/clash/Load_Balance.yaml <br/> https://raw.githubusercontent.com/ammasood12/clash/refs/heads/main/clash/Alvin9999.yaml | 
 > Based on Alvin9999 <br/>
 
 > [!IMPORTANT]
