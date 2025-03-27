@@ -87,9 +87,10 @@
 | Poor | N/A | https://igdux.top/5Hna |
 | Poor | [vxiaov](https://github.com/vxiaov/free_proxies) | https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml |
 | Poor | [AiboBoxx](https://github.com/aiboboxx/clashfree) | https://github.com/aiboboxx/clashfree/blob/main/clash.yml |
-| Poor | N/A | https://mxlsub.me/newfull <br/> https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false |
+| Poor | [mxlsub](https://github.com/MxlCN) | https://mxlsub.me/newfull <br/> https://api.mxlweb.xyz/sub?target=clash&url=https://mxlsub.me/free&insert=false |
 | Poor | [SnapdragonLee](https://github.com/SnapdragonLee/SystemProxy) | https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml |
-| N/A | [PeaSoft](https://github.com/peasoft/NoMoreWalls) | https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml |
+| N/A  | [PeaSoft](https://github.com/peasoft/NoMoreWalls) | https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml |
+| Poor | N/A | https://baidu01.cc/link/85jlH4AjC6NJDHBQ?clash=1 |
 
 > [!TIP]
 > **Clash variants**
