@@ -26,13 +26,13 @@
 ### Free VPN
 | Status | Provider | Details |
 | ------ | -------  | ------------- |
-| Status | [FreeGate](http://us.dongtaiwang.com/loc/download.en.php) | [Download](https://d2.freessr2.xyz/fg800p.zip) \| [Download](https://d.dtku35.xyz/fg800p.zip) |
-| Status | [UltraSurf](https://www.ultrasurf.us/) | [Download](https://d2.freessr2.xyz/u2132.exe) \| [Download](https://d.dtku35.xyz/u2132.exe) |
-| Status | [Anyi](https://www.anyi8.com/) | [Website](https://www.sharingdais.com/) \| [Website](https://www.ruijieguoji.com/) |
-| Status | [VpnGate](https://www.vpngate.net/en/) | |
-| Status | [VPNify](https://vpnifyapp.com/) | Download |
+| Status | [FreeGate](http://us.dongtaiwang.com/loc/download.en.php) \| [Download](https://d2.freessr2.xyz/fg800p.zip) \| [Download](https://d.dtku35.xyz/fg800p.zip) |  |
+| Status | [UltraSurf](https://www.ultrasurf.us/) \| [Download](https://d2.freessr2.xyz/u2132.exe) \| [Download](https://d.dtku35.xyz/u2132.exe) |  |
+| Status | [Anyi](https://www.anyi8.com/) \| [Website](https://www.sharingdais.com/) \| [Website](https://www.ruijieguoji.com/) |  |
+| Status | [VpnGate](https://www.vpngate.net/en/) |  |
+| Status | [VPNify](https://vpnifyapp.com/) | works in china |
 | Status | [QuickFox](https://www.quick-fox.com/en-US) | **get Chinese IP |
-| Status | [FineVPN](https://finevpn.org/) | |
+| Status | [FineVPN](https://finevpn.org/) | not tested in china |
 
 ### Useful Links
 | Type     | link |
