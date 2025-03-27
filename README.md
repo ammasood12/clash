@@ -32,7 +32,7 @@
 | Status | [VpnGate](https://www.vpngate.net/en/) | |
 | Status | [VPNify](https://vpnifyapp.com/) | Download |
 | Status | [QuickFox](https://www.quick-fox.com/en-US) | **get Chinese IP |
-| Status | [VpnGate](https://finevpn.org/) | |
+| Status | [FineVPN](https://finevpn.org/) | |
 
 ### Useful Links
 | Type     | link |
