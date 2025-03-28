@@ -45,7 +45,7 @@
 ### Clients
 | Provider   | Windows | Android | iOS | MacOS | Linux | Notes |
 | --------   | ------- | ------- | --- | ----- | ----- | ----- |
-| [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases) |  Windows | Android | iOS | MacOS | Linux | Notes |
+| [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev/releases) |  Windows | N/A | N/A | MacOS | Linux | Notes |
 | [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/)  | Windows | Android | iOS | MacOS | Linux | Notes |
 | [SingBox](https://github.com/SagerNet/sing-box/releases/) \| [Official](https://sing-box.sagernet.org/clients/) | Windows | Android | iOS | MacOS | Linux | Notes |
 | v2Box   | Windows | Android | [iOS](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690) | MacOS | Linux | Notes |
