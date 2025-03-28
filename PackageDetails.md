@@ -4,8 +4,12 @@
 ### Links to find proxy providers
 | Type           | Website | OtherLinks |
 | -------------- | ------- | ---------- |
-| Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) | [Website](https://github.com/lynkco01/jichangtuijian) |
-| Services Links | [Website](https://clashxiazai.com/clash-nodes-providers/) | OtherLinks |
+| Services Links | [Website](https://9.234456.xyz/abc.html?t=1740946027727) |   |
+| Services Links | [lynkco01](https://github.com/lynkco01/jichangtuijian) | |
+| Services Links | [clashxiazai](https://clashxiazai.com/clash-nodes-providers/) | OtherLinks |
+| Services Links | [guatizi](https://guatizi.com/) | OtherLinks |
+| Services Links | [2025jichang](https://2025jichang.com/) | OtherLinks |
+| Services Links | [clashsub](https://clashsub.net/) | OtherLinks |
 | Services Links | [Website](https://guatizi.com/) | OtherLinks |
 
 | Status | Provider       | Website | OtherLinks | Packages | Trial | Notes |
@@ -29,6 +33,7 @@
 | Status | eeVPN          | [Website](https://www.eevpn66.com/) | OtherLinks | [Packages](#eeVPN) | No | 6.99¥ for 100Gb, 10.99¥ for 200Gb, |
 | Status | BabyCloud      | [Website](https://bbyvpn.com) | bby001.com, bby002.com, bby003.com, bby004.com, bby005.com, v3ssy.xyz | [Packages](#BabyCloud) | 10Gb, 1 Day | Notes |
 | Expensive | Nexc        | [Website](https://nexc.cc/) | OtherLinks | [Packages](#nexc) | 2gb, 1day | Notes |
+| N/A | 007       | [Website](https://cloud.839527.xyz/#/login) | OtherLinks | Packages | Trial | Notes |
 
 > [!TIP]
 > use other links to access in China <br/>
