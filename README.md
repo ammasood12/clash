@@ -17,7 +17,7 @@
 - [One Click Clash Subscription (Free)](#One-Click-Clash-Subscription-Free)
 - [Website Subscriptions (Free)](#Website-Subscriptions-Free)
 - [Bookmarks to find nodes](#Bookmarks-to-find-nodes)
-- [Convert SSR, SS, VLess, VMess](#Convert-SSR,-SS,-VLess,-VMess)
+- [Convert](#Convert)
 
 
 ### Paid Subscriptions
@@ -128,7 +128,7 @@
 | Nodes  | [barry-far](https://github.com/barry-far/V2ray-Configs) | nodes |
 | Links  | [clashsub](https://clashsub.net/free-subscribe/) | Links to Other nodes |
 
-### Convert SSR, SS, VLess, VMess
+### Convert
 | Type      | Website        | Config | Notes |
 | --------- | -------------- | ------ | ----- |
 |ss, ssr, vmess | https://acl4ssr-sub.github.io/ |  Client: Clash --> Remote Configuration: None --> Backend Address: sub.xeton.dev
