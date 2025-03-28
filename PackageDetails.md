@@ -11,7 +11,7 @@
 | ------ | -------------- | ------- | ---------- | -------- | ----- | ----- |
 | $${\color{green}Cheap}$$  | OneYuanAirport | [Website](https://一元机场.com/) | .com \| .ink \| .art \| .net \| .click \| .xyz \| .club | [Packages](#OneYuanAirport) | No | 7¥ for 500Gb, not work >> whatsapp calling, chatgpt |
 | $${\color{green}Cheap}$$  | PapayaCloud    | [Website](https://muguacloud.top/) | .top \| .pw \| .art | [Packages](#PapayaCloud) | 1¥ 2Gb | 6¥ for 500Gb |
-| $${\color{green}Cheap}$$ | YiFenJiChang | [Website](https://login.yfjc.xyz/#/register?code=7lCbWk7w) | OtherLinks | [Packages](#YiFenJiChang) | No | 2¥ for 100Gb |
+| $${\color{green}Cheap}$$ | YiFenJiChang | [Website](https://login.yfjc.xyz/#/register?code=7lCbWk7w) | OtherLinks | [Packages](#YiFenJiChang) | No | 2¥ for 100Gb, 10% usage allowed per day |
 | Status | PapayaCloud2   | [Website](https://muguacloud.win/), [QuickLink](https://4399.bid/) | .win \| .app | [Packages](#PapayaCloud2) | Trial | Notes |
 | Status | SSone          | [Website](https://ssonegames.xn--xhq8sm16c5ls.com/dashboard) | [website](https://hello-ssone.com/), [website](https://hello36d.com/) | [Packages](#SSone) | 1Gb, 5Hrs | Notes |
 | Status | KeLeYun        | [Website](https://q0av6w.klwiuehge.top/#/plan) | [Website](https://可乐云.com/), [Website](https://q0av6w.klwiuehge.top/), [Website](https://kly2026.com/),  | [Packages](#KeLeYun) | No | Notes |
