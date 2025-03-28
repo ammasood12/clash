@@ -4,10 +4,9 @@
 > ## Disclaimer
 > * This project is meant for personal and educational uses only.
 > * Please follow relevant laws and regulations when using this project.
-> * Project owner is not responsible or liable in any manner for the use of the content. <br/>
-> **NOTE** <br/>
-> This purpose of this project is to document and organize clash based node while residing in China. <br/>
-> These nodes don't provide 100% stable connections. Hence, tweaking required.
+> * Project owner is not responsible or liable in any manner for the use of the content.
+> * This purpose of this project is to document and organize clash based node while residing in China.
+> * Free Clash nodes are collected from the Internet, their availability is not guaranteed and they may fail at any time.
 
 ## Table of Contents
 - [Paid Subscriptions](#Paid-Subscriptions)
