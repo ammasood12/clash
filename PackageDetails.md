@@ -75,4 +75,4 @@
 ### Nexc
 ![Nexc](https://github.com/ammasood12/clash/blob/main/Packages/nexc.png)
 ### KittyWorks
-![KittyWorks](https://github.com/ammasood12/clash/blob/main/Packages/KittyWorks.png)
+![KittyWorks](https://github.com/ammasood12/clash/blob/main/Packages/kittyworks.png)
