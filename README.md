@@ -118,7 +118,7 @@
 | Type   | Provider | Note |
 | ------ | ------- | ---- |
 | Manual | [freefq.com](https://freefq.com/) | Multiple types of nodes |
-| Manual | [free-ss.site](https://free-ss.site/) | provide vless, vmess nodes |
+| Manual | [free-ss.site](https://free-ss.site/) | provide vless, vmess nodes, doesn't work |
 | Manual | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | vless, vmess | 
 | Manual | [Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | ssr, ss |
 | Links  | [Mermeroo](https://github.com/mermeroo/V2RAY-CLASH-BASE64-Subscription.Links/blob/main/SUB%20LINKS) | Links to Other nodes |
