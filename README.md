@@ -12,12 +12,11 @@
 - [Paid Subscriptions](#Paid-Subscriptions)
 - [Free VPN](#Free-VPN)
 - [Useful Links](#Useful-Links)
-- [Prefered Clients](#Prefered-Clients)
+- [Prefered Clients](#Clients)
 - [One Click Clash Subscription (Free)](#One-Click-Clash-Subscription-Free)
 - [Website Subscriptions (Free)](#Website-Subscriptions-Free)
 - [Bookmarks to find nodes](#Bookmarks-to-find-nodes)
 - [Convert](#Convert)
-
 
 ### Paid Subscriptions
 [CLick Here!](https://github.com/ammasood12/clash/blob/main/PackageDetails.md)
