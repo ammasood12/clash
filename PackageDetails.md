@@ -7,12 +7,16 @@
 | [Website](https://9.234456.xyz/abc.html?t=1740946027727) | [lynkco01](https://github.com/lynkco01/jichangtuijian) | [clashxiazai](https://clashxiazai.com/clash-nodes-providers/) |
 | [guatizi](https://guatizi.com/) | [2025jichang](https://2025jichang.com/) | [clashsub](https://clashsub.net/) |
 
+https://xn--4gqvd492adjr.com/
+
 | Status | Provider       | Website | OtherLinks | Packages | Trial | Notes |
 | ------ | -------------- | ------- | ---------- | -------- | ----- | ----- |
 | $${\color{green}Cheap}$$  | OneYuanAirport | [Website](https://一元机场.com/) | .com \| .ink \| .art \| .net \| .click \| .xyz \| .club | [Packages](#OneYuanAirport) | No | 7¥ for 500Gb, not work >> whatsapp calling, chatgpt |
 | $${\color{green}Cheap}$$  | PapayaCloud    | [Website](https://muguacloud.top/) | .top \| .pw \| .art | [Packages](#PapayaCloud) | 1¥ 2Gb | 6¥ for 500Gb |
 | $${\color{green}Cheap}$$ | YiFenJiChang | [Website](https://login.yfjc.xyz/#/register?code=7lCbWk7w) | [OtherLinks](https://xn--4gqx1hgtfdmt.com/) | [Packages](#YiFenJiChang) | No | 2¥ for 100Gb, 10% usage allowed per day, no whatsapp calling|
-| $${\color{green}Cheap}$$ | YiJiaJiChang | [Website](https://xn--4gqu8tnud62o.com/#/register?code=AgrxXB6b) | [OtherLinks](https://xn--4gqvd492adjr.com/#/register?code=hDS8fVWy) | [Packages](#YiJiaJiChang) | No | 2.9¥ for 500Gb |
+| $${\color{red}Cheap-Stopped}$$ | YiJiaJiChang | [Website](https://xn--4gqu8tnud62o.com/#/register?code=AgrxXB6b) | [OtherLinks](https://xn--4gqvd492adjr.com/#/register?code=hDS8fVWy) | [Packages](#YiJiaJiChang) | No | 2.9¥ for 500Gb |
+| $${\color{green}Cheap}$$ | YiGeJiChang | [Website](https://xn--4gqvd492adjr.com/) | OtherLinks | [Packages](#YiGeJiChang) | No | 2.9¥ for 500Gb |
+| $${\color{green}Cheap}$$ | LingYuanJiChang | [Website](https://xn--z4q48lcvpsq0c.com/) | OtherLinks | [Packages](#LingYuanJiChang) | No | 8.9¥ for 1000Gb |
 | $${\color{green}Cheap}$$ | MiniZZ | [Website](https://minizz.online/#/register?code=H101qSIN) | OtherLinks | [Packages](#MiniZZ) | No | 3.9¥ for 500Gb |
 | Status | PapayaCloud2   | [Website](https://muguacloud.win/), [QuickLink](https://4399.bid/) | .win \| .app | [Packages](#PapayaCloud2) | Trial | Notes |
 | Status | SSone          | [Website](https://ssonegames.xn--xhq8sm16c5ls.com/dashboard) | [website](https://hello-ssone.com/), [website](https://hello36d.com/) | [Packages](#SSone) | 1Gb, 5Hrs | Notes |
@@ -46,6 +50,10 @@
 ![YiFenJiChang](https://github.com/ammasood12/clash/blob/main/Packages/YiFenJiChang.png)
 ### YiJiaJiChang
 ![YiJiaJiChang](https://github.com/ammasood12/clash/blob/main/Packages/YiJiaJiChang.png)
+### YiGeJiChang
+![YiGeJiChang](https://github.com/ammasood12/clash/blob/main/Packages/YiGeJiChang.png)
+### LingYuanJiChang
+![LingYuanJiChang](https://github.com/ammasood12/clash/blob/main/Packages/LingYuanJiChang.png)
 ### MiniZZ
 ![MiniZZ](https://github.com/ammasood12/clash/blob/main/Packages/MiniZZ.png)
 ### PapayaCloud2
