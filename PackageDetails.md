@@ -36,6 +36,7 @@ https://xn--4gqvd492adjr.com/
 | Expensive | Nexc        | [Website](https://nexc.cc/) | OtherLinks | [Packages](#nexc) | 2gb, 1day | Notes |
 | Status | KittyWorks       | [Website](https://kitty.works/#/register?code=mczTPQ3W) | OtherLinks | [Packages](#KittyWorks) | No | 24¥/Year, 128Gb/Month |
 | N/A | 007       | [Website](https://cloud.839527.xyz/#/login) | OtherLinks | Packages | Trial | Notes |
+| Expensive | WannaFlix       | [Website](https://wannaflix.net/) | .com | [Packages](#WannaFlix) | 3days | Notes |
 
 > [!TIP]
 > use other links to access in China <br/>
@@ -90,3 +91,5 @@ https://xn--4gqvd492adjr.com/
 ![Nexc](https://github.com/ammasood12/clash/blob/main/Packages/nexc.png)
 ### KittyWorks
 ![KittyWorks](https://github.com/ammasood12/clash/blob/main/Packages/kittyworks.png)
+### WannaFlix
+![WannaFlix](https://github.com/ammasood12/clash/blob/main/Packages/WannaFlix.png)
